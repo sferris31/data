@@ -1060,20 +1060,19 @@ Q: Offer your opinion on why the Internet may result in more international busin
 A: The Internet may result in more international business because it makes international communication and transactions quicker and easier. Instead of having to travel and discuss business and make deals in person they can now skype and make transactions using the internet. 
 Q: How would a relatively high home inflation rate affect the home countries current account, other things being equal?
 A: A high inflation rate can increase imports and decrease exports, this would increase the current account deficit.
- Q: What are some of the major objectives of the IMF?
+Q: What are some of the major objectives of the IMF?
 A: The major IMF objectives are (1) promote cooperation among countries on international monetary issues, (2) promote stability in exchange rates, (3) provide temporary funds to member countries attempting to correct imbalances of international payments, (4) promote free mobility of capital funds across countries, and (5) promote free trade.
- Q: Utah Bank's bid price for Canadian dollars is $.7938 and its ask price is $.81. What is the bid/ask percentage spread?
+Q: Utah Bank's bid price for Canadian dollars is $.7938 and its ask price is $.81. What is the bid/ask percentage spread?
 A: ($0.81-$0.7938)/$0.81= 2%
- Q: Compute the bid/ask percentage spread for Mexican Peso retail transaction in which the ask rate is $.11 and the bid rate is $.10.
+Q: Compute the bid/ask percentage spread for Mexican Peso retail transaction in which the ask rate is $.11 and the bid rate is $.10.
 A: [($0.11 – $0.10)/$0.11] = .0909 or 9.1%
- Q: Explain the difference between sterilized and non-sterilized intervention.
+Q: Explain the difference between sterilized and non-sterilized intervention.
 A: Sterilized intervention is used to ensure no change in the money supply while nonsterilized intervention is used without concern about maintaining the same money supply.
- Q: Assume the spot rate of the British pound is $1.73. The expected spot rate one year from now is assumed to be $1.66. What percentage depreciation does this reflect?
-A: The expected depreciation of 4.05% percent 
-      ($1.66 – $1.73)/$1.73 = –4.05% 
- Q: Assume Poland’s currency (the zloty) is worth $0.17 and the Japanese yen is worth $0.008. What is the cross rate of the zloty with respect to yen? That is, how many yen equal a zloty?  
+Q: Assume the spot rate of the British pound is $1.73. The expected spot rate one year from now is assumed to be $1.66. What percentage depreciation does this reflect?
+A: The expected depreciation of 4.05% percent ($1.66 – $1.73)/$1.73 = –4.05% 
+Q: Assume Poland’s currency (the zloty) is worth $0.17 and the Japanese yen is worth $0.008. What is the cross rate of the zloty with respect to yen? That is, how many yen equal a zloty?  
 A: $0.17/$0.008 = 21.25 so 1 zloty = 21.25 yen
- Q: With regard to Eurocredit loans, who are the borrowers?
+Q: With regard to Eurocredit loans, who are the borrowers?
 A: Large corporations and some government agencies are the ones that commonly request Eurocredit loans.
 Q: Assume that the U.S. inflation rate becomes high relative to Canadian inflation. Other things being equal, how should this affect the U.S. demand for Canadian dollars? 
 A: The demand for Canadian dollars should increase. 
@@ -1081,7 +1080,7 @@ Q: What is the expected relationships between the relative real interest rates o
 A: The higher the real interest rate of one country compared to another, the stronger the home currency will be. 
 Q: What factors affect the future movements in the value of the euro against the dollar? 
 A: The euro’s value could change because of the balance of trade, which reflects more U.S. demand for European goods than the European demand for U.S. goods.
- Q: Compare and contrast forward and futures contracts. 
+Q: Compare and contrast forward and futures contracts. 
 A: Futures contracts are highly standardized and are traded on exchange whereas the terms of each forward contract can be privately negotiated and are traded over-the-counter. 
 Q: How can currency futures be used by corporations? 
 A: Corporations that desire to lock in a price at which they can sell a foreign currency would do so by selling currency futures.
@@ -1130,5 +1129,44 @@ A: The last chapter explained how to measure exposures which you need to do befo
 Q: Why should an MNC identify net exposure before hedging? 
 A: An MNC can reduce the amount of cash flow that it needs to hedge when identifying net exposure first, this can reduce the transaction costs associated with hedging.
 Q: If hedging is expected to be more costly than not hedging, why would a firm even consider hedging? 
-A: Firms are willing to hedge because they prefer knowing what their future cash flows will be instead of the uncertainty that comes with and open position in a foreign currency. 
-
+A: Firms are willing to hedge because they prefer knowing what their future cash flows will be instead of the uncertainty that comes with and open position in a foreign currency.  
+All relevant public and private information reflects on today's exchange rates.
+Strong form efficeint
+What is transaction exposure?
+The sensivity of contractual transactions in foreign currencies to exchange rate movements.
+What is the exposure of the MNC's consolidated financial statements to exchange rate fluctuations?
+It is known as translation exposure.
+What are the hedging techniques to hedge payables?
+Future hedge, forward hedge, money market hedge, currency option hedge
+Who serves as intermediaries in the foreign exchange market?
+Foreign excange dealers.
+What is often accepted as a medium of exchangeby merchants in many countries?
+The U.S. dollar.
+What are the costs of maintaining an inverntory of a particular currency?
+Inventory costs.
+What transactions are facilitaed within the foreign exchange markets?
+Trade of financial flows.
+What has become larger over time and can easily overwhelm trade flows?
+Capital flows.
+Who has the right to sell a currency at a specified price within specified period of time?
+The owner of a currrecny put option.
+What is the balance of payments?
+Summary of transactions for a specified country over a specified period of time between domestic and foreign residents.
+What happens when a country's currency weakens?
+Their prices become more attractive to foreign customers, so foreign companies lower their prices to remain in competition with the firms in the country.
+What is the interbank market?
+It is a market that facilitates the exchange of currencies between banks.
+What grants the right to purchase a specific currency at a designated price within a specific period of time?
+A currency call option
+What represents the increase in value of a currency allowed to change in response of market conditions?
+Appreciation represents the increase in value of a currency.
+Is a currency board effective.
+A currency board is only effective if investors believe it will last. 
+How many popular forms of PPP are there and what are they?
+There are 2 forms of PPP. Absolute Form of PPP, and Relative Form of PPP.
+Why does purchasing power parity not consistently occur?
+Due to the lack of substitutes for some traded goods, and confounding effects.
+What theory uses interest rates rather than inflation rates?
+International Fisher Effect (IFE) is used to explain why exchange rates change over time, interest rates are highly correlated with inflation.
+What suggests that the nominal interst rate contains two components; expected inflation rate, and real rate of interest.
+The fisher effect
