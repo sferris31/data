@@ -1050,110 +1050,86 @@ What do leading and lagging strategies involve?
 Adjusting the timing of a payment request or disbursement to reflect expectations about future currency movements
 What are alternative hedging techniques?
 Leading and lagging, cross-hedging and currency diversification
-1)	Q: Explain the agency problem of MNCs.
+Q: Explain the agency problem of MNCs.
 A: The agency problem of MNCs is a conflict of interest that occurs between a company's stockholders and management of the company.
-
-2)	Q: Why might agency cost be larger for an MNC than a purely domestic firm?
+Q: Why might agency cost be larger for an MNC than a purely domestic firm?
 A: Foreign subsidiary managers raised in different cultures may not follow uniform goals
-
-3)	Q: What factors cause some firms to become more internationalized than others?
+Q: What factors cause some firms to become more internationalized than others?
 A: The operating characteristics of the firm and the risk perception of international business will influence the degree to which a firm becomes internationalized.
-
-4)	Q: Offer your opinion on why the Internet may result in more international business.
+Q: Offer your opinion on why the Internet may result in more international business.
 A: The Internet may result in more international business because it makes international communication and transactions quicker and easier. Instead of having to travel and discuss business and make deals in person they can now skype and make transactions using the internet. 
-
-5)	Q: How would a relatively high home inflation rate affect the home countries current account, other things being equal?
+Q: How would a relatively high home inflation rate affect the home countries current account, other things being equal?
 A: A high inflation rate can increase imports and decrease exports, this would increase the current account deficit.
- 
-6)	 Q: What are some of the major objectives of the IMF?
+Q: What are some of the major objectives of the IMF?
 A: The major IMF objectives are (1) promote cooperation among countries on international monetary issues, (2) promote stability in exchange rates, (3) provide temporary funds to member countries attempting to correct imbalances of international payments, (4) promote free mobility of capital funds across countries, and (5) promote free trade.
-
-7)	 Q: Utah Bank's bid price for Canadian dollars is $.7938 and its ask price is $.81. What is the bid/ask percentage spread?
+Q: Utah Bank's bid price for Canadian dollars is $.7938 and its ask price is $.81. What is the bid/ask percentage spread?
 A: ($0.81-$0.7938)/$0.81= 2%
-
-8)	 Q: Compute the bid/ask percentage spread for Mexican Peso retail transaction in which the ask rate is $.11 and the bid rate is $.10.
+Q: Compute the bid/ask percentage spread for Mexican Peso retail transaction in which the ask rate is $.11 and the bid rate is $.10.
 A: [($0.11 – $0.10)/$0.11] = .0909 or 9.1%
-
-9)	 Q: Explain the difference between sterilized and non-sterilized intervention.
+Q: Explain the difference between sterilized and non-sterilized intervention.
 A: Sterilized intervention is used to ensure no change in the money supply while nonsterilized intervention is used without concern about maintaining the same money supply.
-
-10)	 Q: Assume the spot rate of the British pound is $1.73. The expected spot rate one year from now is assumed to be $1.66. What percentage depreciation does this reflect?
-A: The expected depreciation of 4.05% percent 
-      ($1.66 – $1.73)/$1.73 = –4.05% 
-
-11)	 Q: Assume Poland’s currency (the zloty) is worth $0.17 and the Japanese yen is worth $0.008. What is the cross rate of the zloty with respect to yen? That is, how many yen equal a zloty?  
+Q: Assume the spot rate of the British pound is $1.73. The expected spot rate one year from now is assumed to be $1.66. What percentage depreciation does this reflect?
+A: The expected depreciation of 4.05% percent ($1.66 – $1.73)/$1.73 = –4.05% 
+Q: Assume Poland’s currency (the zloty) is worth $0.17 and the Japanese yen is worth $0.008. What is the cross rate of the zloty with respect to yen? That is, how many yen equal a zloty?  
 A: $0.17/$0.008 = 21.25 so 1 zloty = 21.25 yen
-
-12)	 Q: With regard to Eurocredit loans, who are the borrowers?
+Q: With regard to Eurocredit loans, who are the borrowers?
 A: Large corporations and some government agencies are the ones that commonly request Eurocredit loans.
-
-13)	Q: Assume that the U.S. inflation rate becomes high relative to Canadian inflation. Other things being equal, how should this affect the U.S. demand for Canadian dollars? 
+Q: Assume that the U.S. inflation rate becomes high relative to Canadian inflation. Other things being equal, how should this affect the U.S. demand for Canadian dollars? 
 A: The demand for Canadian dollars should increase. 
-
-14)	Q: What is the expected relationships between the relative real interest rates of two countries and the exchange rate of their currencies? 
+Q: What is the expected relationships between the relative real interest rates of two countries and the exchange rate of their currencies? 
 A: The higher the real interest rate of one country compared to another, the stronger the home currency will be. 
-
-15)	Q: What factors affect the future movements in the value of the euro against the dollar? 
+Q: What factors affect the future movements in the value of the euro against the dollar? 
 A: The euro’s value could change because of the balance of trade, which reflects more U.S. demand for European goods than the European demand for U.S. goods.
-
-16)	 Q: Compare and contrast forward and futures contracts. 
+Q: Compare and contrast forward and futures contracts. 
 A: Futures contracts are highly standardized and are traded on exchange whereas the terms of each forward contract can be privately negotiated and are traded over-the-counter. 
-
-17)	Q: How can currency futures be used by corporations? 
+Q: How can currency futures be used by corporations? 
 A: Corporations that desire to lock in a price at which they can sell a foreign currency would do so by selling currency futures.
-
-18)	Q: Compute the forward discount or premium for the Mexican peso whose 90-day forward rate is $0.102 and spot rate is $0.10.
+Q: Compute the forward discount or premium for the Mexican peso whose 90-day forward rate is $0.102 and spot rate is $0.10.
 A: ($0.098 - $0.10) / $0.10 × (360/90) =  –.02, or –2%, which reflects a 8% discount
-
-19)	Q: List the factors that affect currency put option premiums. 
+Q: List the factors that affect currency put option premiums. 
 A: The higher the existing spot rate relative to the strike price. The greater is the call option value the longer the period prior to the expiration date the greater is the call option value.
-20)	Q: Compare and contrast the fixed, freely floating, and managed float exchange rate systems. 
+Q: Compare and contrast the fixed, freely floating, and managed float exchange rate systems. 
 A: Under a fixed exchange rate system, the government attempts to maintain exchange rates within 1% of the initial set value. Under a freely floating system, government intervention would be non-existent. Under a managed float system, governments will allow exchange rates move according to market forces; however, they will intervene when they believe it is necessary.
-
-21)	Q: How can a central bank use indirect intervention to change the value of a currency?
+Q: How can a central bank use indirect intervention to change the value of a currency?
 A: Central banks can try and devalue their home currency compared to a foreign currency. They can do this by buying the foreign currency with their currency, the impact is that it will have is an upward pressure on the foreign currency. 
-
-22)	Q: Assume there is concern that the U.S. may experience a recession. How should the Federal Reserve influence the dollar to prevent a recession? 
+Q: Assume there is concern that the U.S. may experience a recession. How should the Federal Reserve influence the dollar to prevent a recession? 
 A: The Fed could use a loose money policy to stimulate the economy, this could put an upward pressure on economic growth and inflation which could weaken the U.S. dollar. 
-
-23)	Q: What is the impact of a weak home currency on the home economy, other things constant? 
+Q: What is the impact of a weak home currency on the home economy, other things constant? 
 A: It would increase the country’s exports and decrease its imports which would lower unemployment. This could increase inflation since there is a decrease in foreign competition. 
-
-24)	Q: Explain the potential feedback effects of a currency’s changing value on inflation.
+Q: Explain the potential feedback effects of a currency’s changing value on inflation.
 A: Having a weak home currency can cause inflation which typically reduces foreign competition in any given industry. Higher inflation can weaken the currency even more since it encourages customers to buy goods abroad. On the other hand a strong home currency can reduce inflation because it reduces the prices of foreign goods and makes home producers to have competitive prices
-25)	Q: Explain the concept of locational arbitrage and the scenario necessary for it to be plausible. 
+Q: Explain the concept of locational arbitrage and the scenario necessary for it to be plausible. 
 A: A locational arbitrage can occur when the spot rate of a given currency varies among locations. The disparity in rates can occur since information is not always immediately available to all banks. Since this disparity does exist, locational arbitrage is possible. 
-26)	Q: Explain the concept of the triangular arbitrage and the scenario necessary for it to be plausible.
+Q: Explain the concept of the triangular arbitrage and the scenario necessary for it to be plausible.
 A: A triangular arbitrage is possible when the actual cross exchange rate between two currencies differs from what it should be. To determine appropriate cross rate take the given values of the two currencies and compare them to some other currency.
-27)	Q: Explain the concept of interest rate parity. 
+Q: Explain the concept of interest rate parity. 
 A: Interest rate parity is a theory in which the differential between the interest rates of two countries remains equal to the differential calculated by using the forward exchange rate and the spot exchange rate techniques. It connects interest, spot exchange, and foreign exchange rates.
-28)	Q: Assume that the annual U.S. interest rate is currently 8 percent and Germanys annual interest rate is currently 9 percent. The Euros one-year forward rate currently exhibits a discount of 2 percent. Does interest rate parity exist?
+Q: Assume that the annual U.S. interest rate is currently 8 percent and Germanys annual interest rate is currently 9 percent. The Euros one-year forward rate currently exhibits a discount of 2 percent. Does interest rate parity exist?
 A: No, because the discount is greater than the interest rate differential.
-29)	Q: Explain the purchasing power parity. 
+Q: Explain the purchasing power parity. 
 A: This is a theory that states that exchange rates between currencies are in equilibrium when their purchasing power is the same in each of the two countries.
-30)	Q: Explain why PPP doesn’t hold. 
+Q: Explain why PPP doesn’t hold. 
 A: The reason PPP doesn’t always hold is because there are other factors that influence exchange rates other than inflation. 
-31)	Q: Japan has typically had lower inflation than the U.S. How would one expect this to affect the Japanese yen’s value?
+Q: Japan has typically had lower inflation than the U.S. How would one expect this to affect the Japanese yen’s value?
 A: Japan’s low inflation places an upward pressure on the yen’s value but other factors can offset this pressure sometimes. For example, Japan invests heavily in U.S. securities. This puts downward pressure on the yen. 
-32)	Q: Assume that the spot exchange rate of the British pound is $1.73. How will this spot rate adjust according to the PPP if the United Kingdom experiences an inflation rate of 7 percent while the United States experiences and inflation rate of 2 percent? 
+Q: Assume that the spot exchange rate of the British pound is $1.73. How will this spot rate adjust according to the PPP if the United Kingdom experiences an inflation rate of 7 percent while the United States experiences and inflation rate of 2 percent? 
 A:  According to PPP, the exchange rate of the pound will depreciate by 4.7 percent according to PPP. This would make the spot rate adjust to $1.73 × [1 + (–.0467)] = $1.649
-33)	Q: Explain corporate motives for forecasting exchange rates. 
+Q: Explain corporate motives for forecasting exchange rates. 
 A: Future exchange rates will affect all critical characteristics of the firm such as costs and revenues. So they can use this to determine when they should do things that will benefit them most. 
-34)	Q: Explain the mixed technique for forecasting exchange rates.
+Q: Explain the mixed technique for forecasting exchange rates.
 A: Mixed forecasting is a combination of two or more techniques. The combinations can differ in terms of techniques and the weight of the importance assigned to each technique. 
-35)	Q: How should appreciation of a firm’s home currency generally affect its cash inflows?
+Q: How should appreciation of a firm’s home currency generally affect its cash inflows?
 A: Appreciation of a firm’s home currency would reduce inflows because the foreign demand for that firm’s goods would be reduced thus increasing foreign competition. 
-36)	Q: How should depreciation of a firm’s home currency generally affect its cash outflows?
+Q: How should depreciation of a firm’s home currency generally affect its cash outflows?
 A: Depreciation of a firm’s home currency would increase inflows because it would likely increase foreign demand for the firm’s goods and reduce foreign competition. 
-37)	Q: Why are the cash flows of a purely domestic firm exposed to exchange rate fluctuations?
+Q: Why are the cash flows of a purely domestic firm exposed to exchange rate fluctuations?
 A: If the firm competes with foreign firms that also sell in a given market, the consumers may switch to foreign products if the local currency strengthens.
-38)	Q: Explain the relationship between this chapter on hedging and the previous chapter of measuring exposure. 
+Q: Explain the relationship between this chapter on hedging and the previous chapter of measuring exposure. 
 A: The last chapter explained how to measure exposures which you need to do before a MNC decides whether to hedge its exposure. 
-39)	Q: Why should an MNC identify net exposure before hedging? 
+Q: Why should an MNC identify net exposure before hedging? 
 A: An MNC can reduce the amount of cash flow that it needs to hedge when identifying net exposure first, this can reduce the transaction costs associated with hedging.
-
-40)	Q: If hedging is expected to be more costly than not hedging, why would a firm even consider hedging? 
-A: Firms are willing to hedge because they prefer knowing what their future cash flows will be instead of the uncertainty that comes with and open position in a foreign currency. 
+Q: If hedging is expected to be more costly than not hedging, why would a firm even consider hedging? 
+A: Firms are willing to hedge because they prefer knowing what their future cash flows will be instead of the uncertainty that comes with and open position in a foreign currency.  
 All relevant public and private information reflects on today's exchange rates.
 Strong form efficeint
 What is transaction exposure?
