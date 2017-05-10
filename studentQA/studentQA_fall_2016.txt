@@ -2809,3 +2809,102 @@ What is volatility?
 Volatility is the degree of variation of a trading price series as measured by the standard deviation or returns.
 What is your favourite colour?
 Blue
+1)	What does MNC stand for?
+a.	Multinational Corporations
+2)	Explain the agency problem of MNCs.
+a.	The agency problem of MNCs is a conflict of interest that occurs between a company's stockholders and management of the company
+3)	What does IDA stand for?
+a.	International Development Association
+4)	What does OECD stand for?
+a.	Organization for Economic Cooperation and Development
+5)	What does BIS stand for?
+a.	Bank for International Settlements
+6)	What is Franchising?
+a.	It obligates a firm to provide a specialized sale or service strategy, support assistance, and possibly an initial investment in the franchise in exchange for periodic fees.
+7)	What is a Joint Venture?
+a.	A venture that is jointly owned and operated by two or more firms.
+8)	What is the Domestic Model Formula used to find?
+a.	It is used to find value of a purely domestic firm.
+9)	What factors cause some firms to become more internationalized than others?
+a.	International trade
+b.	Licensing
+c.	Franchising
+d.	Joint Venture
+10)	What are the main components of the current account for payments?
+a.	Merchandise and Services
+b.	Factor Income
+c.	Transfers
+11)	What does GATT stand for?
+a.	General Agreement on Tariffs and Trade
+12)	What does NAFTA stand for?
+a.	North American Free Trade Agreement
+13)	Definition of Dumping?
+a.	When exporting of products that were produced with the help of government subsidies.
+14)	What are the most influential factors of international trade?
+a.	Inflation
+b.	National income
+c.	Government policies
+d.	Exchange Rate
+15)	What does CFF stand for?
+a.	Compensatory Financing Facility
+16)	What does SDR stand for?
+a.	Special Drawing Rights
+17)	What does IFC stand for?
+a.	International Financial Corporation
+18)	What does WTO stand for?
+a.	World Trade Organization
+19)	What does MIGA stand for?
+a.	Multilateral Investment Guarantee Agency
+20)	What does IBRD stand for?
+a.	International Bank for Reconstruction and Development
+21)	 What is the Bretton Woods Agreement?
+a.	An agreement called for fixed exchange rates between currencies.
+22)	How can governments of foreign countries can influence the equilibrium exchange rate?
+a.	Imposing foreign exchange barriers
+b.	Foreign trade barriers
+c.	Intervening in the foreign exchange markets
+d.	Affecting marco variables such as inflation
+23)	What does NDF stand for?
+a.	Non-derivable forward contract
+24)	What is another term for a Seller?
+a.	Writer
+25)	What does ERM stand for?
+a.	Exchange Rate Mechanism
+26)	Three reasons the US has Central Banks
+a.	To smooth exchange rate movement
+b.	Establish implicit exchange rate boundries
+c.	Respond to temporary disturbances
+27)	Definition of Nonsterilized intervention
+a.	When the Fed intervenes in the foreign exchange market without adjusting for the change in the money supply.
+28)	Definition of Sterilized intervention
+a.	The Fed intervenes in the foreign exchange market and simultaneously engages in offsetting transractions.
+29)	Definition of Arbitrage
+a.	Capitalizing on a discrepancy in quoted prices by making a riskless profit
+30)	Explain Triangular Arbitrage
+a.	Represents the relationship between two currencies that are different from one’s base currency
+31)	What does IRP stand for?
+a.	Interest Rate Parity
+32)	What is the PPP theory?
+a.	This theory attempts to quantify the inflation exchange rate relationship
+33)	What does the fisher effect suggest?
+a.	Expected inflation rates
+b.	Real rate of interest.
+34)	What is fundamental forecasting?
+a.	Fundamental forecasting is based on fundamental relationships between economic variables and exchange rate.
+35)	What is market-based forecasting based on?
+a.	Spot rate
+b.	Forward rate
+36)	Formula for real cost of hedging payables
+a.	RCH=Cost of Hedging payables- cost of payables not hedged
+37)	Alternative Hedging Technique
+a.	Leading and lagging
+b.	Cross-hedging
+c.	Currency diversification
+38)	The key components of the financial account are payments for
+a.	Direct foreign investment
+b.	Portfolio investment
+c.	Other capital investment
+39)	What is the J-curve effect?
+a.	When the US balance of trade improves and the illustration on a graph looks like a J
+40)	Define Privatization
+a.	It allows for greater international business as foreign firms can acquire operations sold by national government.
