@@ -1170,3 +1170,167 @@ What theory uses interest rates rather than inflation rates?
 International Fisher Effect (IFE) is used to explain why exchange rates change over time, interest rates are highly correlated with inflation.
 What suggests that the nominal interst rate contains two components; expected inflation rate, and real rate of interest.
 The fisher effect
+Q: What is the agency problem?
+A: The conflict of goals between a firm’s managers and shareholders.
+Q: When a country specializes in some products, it may not produce other products, so trading is essential is known as what?
+A: Comparative advantage.
+Q: What are the imperfect market conditions?
+A: Conditions where factors of production are somewhat immobile.
+Q: According to what theory are firms becoming established in the home market for at least one more supplier of the product?
+A: Product cycle theory.
+Q: What are the six most common methods to conduct international business?
+A: International trade, licensing, franchising, joint ventures, acquisitions of existing operations, and establishing new foreign subsidiaries. 
+Q: What is franchising?
+A: Franchising obligates a firm to provide a specialized sales or service strategy, support assistance, and possibly an initial investment in the franchise in exchange for periodic fees.
+Q: What is licensing?
+A: Licensing obligates a firm to provide its technology in exchange for fees or some other specified benefits. 
+Q: What is a direct foreign investment (DFI)?
+A: Any method of increasing international business that requires a direct investment in foreign operations normally.
+Q: What does direct foreign investment represent?
+A: Direct foreign investment represents the investment in fixed assets in foreign countries that can be used to conduct business operations.
+Q: What does portfolio investment represent?
+A: Portfolio investment represents transactions involving long-term financial assets between countries that do not affect the transfer of control. 
+Q: What are the most influential factors that affect a country’s economy?
+A: The most influential factors are inflation, national income, government policies, and exchange rates. 
+
+
+Q: What occurs when a country’s inflation rate increases?
+A: If a country’s inflation rate increases relative to the countries with which it trades, its current account will be expected to decrease, other things being equal. 
+Q: What occurs if a country’s income level increases?
+A: If a country’s income level increases by a higher percentage than those of other countries, its current account is expected to decrease, other things being equal.
+Q: What are five factors that affect DFI?
+A: Changes in restrictions, privatization, potential economic growth, tax rates, and exchange rates. 
+Q: What are the factors that affect international portfolio investment?
+A: Tax rates on interest or dividends, interest rates, and exchange rates. 
+Q: What are the major objectives of the International Monetary Fund (IMF)?
+A: (1) promote cooperation among countries on international monetary issues, (2) promote stability in exchange rates, (3) provide temporary funds to member countries attempting to correct imbalances of international payments, (4) promote free mobility of capital funds across countries, and (5) promote free trade. 
+Q: What does IMF stand for?
+A: International Monetary Fund.
+Q: What does the compensatory financing facility do?
+A: The CFF attempts to reduce the impact of export instability on country economies. 
+Q: What was the World Trade Organization established for?
+A: The WTO was established to provide a forum for multilateral trade negotiations and to settle trade disputes related to the GATT accord. 
+Q: What does the foreign exchange market allow?
+A: The foreign exchange market allows for the exchange of one currency for another. 
+Q: What is a forward contact?
+A: A forward contact is an agreement between a corporation and a financial institution to exchange a specified amount of a currency at a specified amount of a currency at a specified exchange rate on a specified date in the future. 
+Q: The difference between the forward rate and the spot rate at a given point in times is measured by:
+A: F=S(1+p)
+Q: What is the non-deliverable forward contract (NDF) used for?
+A: A non-deliverable forward contract (NDF) is frequently used for currencies in emerging markets.
+Q: What are currency futures contracts?
+A: Currency futures contracts are contracts specifying a standard volume of a particular currency to be exchanged on a specific settlement date. 
+Q: What does a currency call option grant the right to?
+A: A currency call option grants the right to buy a specific currency at a designated price within a specific period of time. 
+Q: What is the exercise price or strike price?
+A: The price at which the owner is allowed to buy a currency. 
+Q: What is a writer (seller) obligated to do?
+A: A writer of call option is obligated to sell a specified currency at a specified price up to a specified expiration date. 
+Q: What does the owner of a currency put option have the right to do?
+A: The owner of currency put option has the right to sell a currency at a specified price within a specified period of time. 
+Q: How can a currency option be structured?
+A: A currency option can be structured with a conditional premium. 
+Q: In a fixed exchange rate system, exchange rates are what?
+A: In a fixed exchange rate system, exchange rates are either held constant or allowed to fluctuate only within very narrow boundaries. 
+Q: What is arbitrage?
+A: Arbitrage can be loosely defined as capitalizing on a discrepancy in quoted prices by making a riskless profit. 
+Q: What is a locational arbitrage?
+A: The process of buying a currency at the location where it is priced cheap and immediately selling it at another location where it is priced higher. 
+Q: What do cross exchange rates represent?
+A: Cross exchange rates represent the relationship between two currencies that are different from one’s base currency. 
+Q: What is it called when currency transactions are conducted in the spot market to capitalize on a discrepancy in the cross exchange rate between two countries?
+A: Triangular arbitrage. 
+Q: What is the covered interest arbitrage?
+A: Covered interest arbitrage is the process of capitalizing on the interest rate differential between two countries while covering you exchange rate risk with a forward contract. 
+Q: Once market forces cause interest rates and exchange rates to adjust such that covered interest arbitrage is no longer feasible, there is an equilibrium state referred to as?
+A: Interest rate parity (IRP).
+Q: What is the forward rate written as?
+A: F=S(1+p)
+Q: The purchasing power parity (PPP) theory attempts to do what?
+A: The purchasing power parity (PPP) theory attempts to quantify the inflation-exchange rate relationship.
+Q: What is the absolute form of PPP based on?
+A: The absolute form of PPP is based on the notion that without international barriers, consumers shift their demand to wherever prices are lower.
+Q: What does the relative form of PPP account for?
+A: The relative form of PPP accounts for the possibility of market imperfections such as transportation costs, tariffs, and quotas. 
+Q: What is the agency problem?
+A: The conflict of goals between a firm’s managers and shareholders.
+Q: When a country specializes in some products, it may not produce other products, so trading is essential is known as what?
+A: Comparative advantage.
+Q: What are the imperfect market conditions?
+A: Conditions where factors of production are somewhat immobile.
+Q: According to what theory are firms becoming established in the home market for at least one more supplier of the product?
+A: Product cycle theory.
+Q: What are the six most common methods to conduct international business?
+A: International trade, licensing, franchising, joint ventures, acquisitions of existing operations, and establishing new foreign subsidiaries. 
+Q: What is franchising?
+A: Franchising obligates a firm to provide a specialized sales or service strategy, support assistance, and possibly an initial investment in the franchise in exchange for periodic fees.
+Q: What is licensing?
+A: Licensing obligates a firm to provide its technology in exchange for fees or some other specified benefits. 
+Q: What is a direct foreign investment (DFI)?
+A: Any method of increasing international business that requires a direct investment in foreign operations normally.
+Q: What does direct foreign investment represent?
+A: Direct foreign investment represents the investment in fixed assets in foreign countries that can be used to conduct business operations.
+Q: What does portfolio investment represent?
+A: Portfolio investment represents transactions involving long-term financial assets between countries that do not affect the transfer of control. 
+Q: What are the most influential factors that affect a country’s economy?
+A: The most influential factors are inflation, national income, government policies, and exchange rates. 
+
+
+Q: What occurs when a country’s inflation rate increases?
+A: If a country’s inflation rate increases relative to the countries with which it trades, its current account will be expected to decrease, other things being equal. 
+Q: What occurs if a country’s income level increases?
+A: If a country’s income level increases by a higher percentage than those of other countries, its current account is expected to decrease, other things being equal.
+Q: What are five factors that affect DFI?
+A: Changes in restrictions, privatization, potential economic growth, tax rates, and exchange rates. 
+Q: What are the factors that affect international portfolio investment?
+A: Tax rates on interest or dividends, interest rates, and exchange rates. 
+Q: What are the major objectives of the International Monetary Fund (IMF)?
+A: (1) promote cooperation among countries on international monetary issues, (2) promote stability in exchange rates, (3) provide temporary funds to member countries attempting to correct imbalances of international payments, (4) promote free mobility of capital funds across countries, and (5) promote free trade. 
+Q: What does IMF stand for?
+A: International Monetary Fund.
+Q: What does the compensatory financing facility do?
+A: The CFF attempts to reduce the impact of export instability on country economies. 
+Q: What was the World Trade Organization established for?
+A: The WTO was established to provide a forum for multilateral trade negotiations and to settle trade disputes related to the GATT accord. 
+Q: What does the foreign exchange market allow?
+A: The foreign exchange market allows for the exchange of one currency for another. 
+Q: What is a forward contact?
+A: A forward contact is an agreement between a corporation and a financial institution to exchange a specified amount of a currency at a specified amount of a currency at a specified exchange rate on a specified date in the future. 
+Q: The difference between the forward rate and the spot rate at a given point in times is measured by:
+A: F=S(1+p)
+Q: What is the non-deliverable forward contract (NDF) used for?
+A: A non-deliverable forward contract (NDF) is frequently used for currencies in emerging markets.
+Q: What are currency futures contracts?
+A: Currency futures contracts are contracts specifying a standard volume of a particular currency to be exchanged on a specific settlement date. 
+Q: What does a currency call option grant the right to?
+A: A currency call option grants the right to buy a specific currency at a designated price within a specific period of time. 
+Q: What is the exercise price or strike price?
+A: The price at which the owner is allowed to buy a currency. 
+Q: What is a writer (seller) obligated to do?
+A: A writer of call option is obligated to sell a specified currency at a specified price up to a specified expiration date. 
+Q: What does the owner of a currency put option have the right to do?
+A: The owner of currency put option has the right to sell a currency at a specified price within a specified period of time. 
+Q: How can a currency option be structured?
+A: A currency option can be structured with a conditional premium. 
+Q: In a fixed exchange rate system, exchange rates are what?
+A: In a fixed exchange rate system, exchange rates are either held constant or allowed to fluctuate only within very narrow boundaries. 
+Q: What is arbitrage?
+A: Arbitrage can be loosely defined as capitalizing on a discrepancy in quoted prices by making a riskless profit. 
+Q: What is a locational arbitrage?
+A: The process of buying a currency at the location where it is priced cheap and immediately selling it at another location where it is priced higher. 
+Q: What do cross exchange rates represent?
+A: Cross exchange rates represent the relationship between two currencies that are different from one’s base currency. 
+Q: What is it called when currency transactions are conducted in the spot market to capitalize on a discrepancy in the cross exchange rate between two countries?
+A: Triangular arbitrage. 
+Q: What is the covered interest arbitrage?
+A: Covered interest arbitrage is the process of capitalizing on the interest rate differential between two countries while covering you exchange rate risk with a forward contract. 
+Q: Once market forces cause interest rates and exchange rates to adjust such that covered interest arbitrage is no longer feasible, there is an equilibrium state referred to as?
+A: Interest rate parity (IRP).
+Q: What is the forward rate written as?
+A: F=S(1+p)
+Q: The purchasing power parity (PPP) theory attempts to do what?
+A: The purchasing power parity (PPP) theory attempts to quantify the inflation-exchange rate relationship.
+Q: What is the absolute form of PPP based on?
+A: The absolute form of PPP is based on the notion that without international barriers, consumers shift their demand to wherever prices are lower.
+Q: What does the relative form of PPP account for?
+A: The relative form of PPP accounts for the possibility of market imperfections such as transportation costs, tariffs, and quotas. 
