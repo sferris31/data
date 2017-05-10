@@ -1334,3 +1334,83 @@ Q: What is the absolute form of PPP based on?
 A: The absolute form of PPP is based on the notion that without international barriers, consumers shift their demand to wherever prices are lower.
 Q: What does the relative form of PPP account for?
 A: The relative form of PPP accounts for the possibility of market imperfections such as transportation costs, tariffs, and quotas. 
+q:What is an arbitrage
+a:Action to capitalize on a discrepancy in quoted prices
+q:What is the asked price
+a:The price at which a trader of foreign exchange is willing to sell a particular currency
+q:When is a counterpurchase
+a:Exchange of goods between two parties under two distinct contracts expressed in monetary terms
+q:What is a countertrade
+a:Sale of goods to one country that is linked to the purchase or exchange of goods from that same country
+q:What is cross exchange rate
+a:Exchange rate between currency A and currency B, given the values of currencies A and B with respect to a third currency
+q:What is coss-hedging
+a:Hedging an open position in one currency with a hedge on another currency that is highly correlated with the first currency
+q:What is DFI
+a:Investment in real assets in foreign countries
+q:What is a direct quotation
+a:Exchange rate quotations representing the value measured by number of dollars per unit
+q:What is dumping
+a:Selling products overseas at unfairly low prices
+q:What is a foward rate
+a:rate at which a bank is willing to exchange one currency for another at some specified date in the future
+q:What is an indirect quotation
+a:Exchange rate quotations representing the value measured by number of units per dollar
+q:What is the interest rate parity
+a:Theory specifiying that the forward premium is equal to the interest rate differential between the two currencies of concern
+q:What is an interest rate swap
+a:Agreement to swap interest payments, fixed interest rate exchanged for floating interest rate
+q:What is nonsterilized intervention
+a:Intervention in the foreign exchange market without adjusting for the change in money supply
+q:What is the real cost of hedging
+a:Additional cost of hedging when compared to not hedging
+q:What is semistrong-form efficient
+a:All relevant public information is already reflected in prevailing spot exchange rates
+q:What is the exercise/strike price
+a:Price set for buying an asset or selling an asset
+q:What is a spot rate
+a:Current exchange rate of currency
+q:What is a futures price
+a:The price at which a futures trader commits to make or take delivery of the underlying asset
+q:What is strong-form efficient
+a:All relevant public an private information is already reflected in the prevailing spot exchange rates
+q:Why do investors hedge
+a:To reduce the overall risk of a portfolio
+q:What is weak-form efficient
+a:Implying that all historical and current exchange rate information is already reflected in prevailing spot exchange rates
+q:What are the international money markets composed of
+a:Several large banks that accept deposits and provide short term loans in various currencies.
+q:Who Uses the international money markets
+a:mainly the government and large corporations
+q:How are exchange rate movements measured
+a:Commonly by the percent change in their values over a specified period, such as a month or a year
+q:What does LIBOR stand for
+a: London Interbank Offered Rate
+q:What are the factors that can influence exchange rate movement
+a:Inflation rates, interest rates, and income levels as well as government controls
+q:When does one buy a currency futres contract
+a:When the speculator expects the currency to appreciate
+q:What are the classifications for the exchange rate systems
+a:fixed rate, freely floating, managed float, and pegged
+q:What happens when the government sells a currency in the foreign exchange market
+a:Puts downward pressure on the currency's equilibrium value
+q:What are commmon forecasting techniques
+a:Technical, fundamental, market based, and mixed
+q:What is transaction exposure
+a:Exposure of an MNC's contractual transactions to exchange rate movements
+q:What are two techniques to hedge longterm transaction exposure
+a:Long term forward contract and parallel loan
+q:What is a parallel loan
+a:Involves the exchange of currencies between tow parties, with promise to reexchange currencies at a specified exchange rate on a future date
+q:What the techniques to optimize cash flows
+a:Accelerate cash inflows, minimize currency conversion costs, managing blocked funds, implementing intersubsidiary cash transfers
+q:What makes up a straddle
+a:Buy a call and buy put
+q:Why is a fixed exchange rate adventagious
+a:Reduces risk by having a constant exchange rate
+q:How is the premium calculated
+a:The difference between the forward rate and the spot rate at a given point in time is measured by the premium
+q:What is a difference between a forward and future
+a:Forwards are not traded on an exchange and futures are
+q:How do MNC's use forward contracts
+a:To hedge imports, locks in a rate which they can otain a currency needed to purchase imports
