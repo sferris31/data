@@ -1414,3 +1414,163 @@ What is a margin requirement used for?
 To cover fluctuations in the value of a contract.
 What is an equilibrium exchange rate?
 An exchange rate in which demand for a currency is equal to the supply of a currency for sale.
+q:What is an arbitrage
+a:Action to capitalize on a discrepancy in quoted prices
+q:What is the asked price
+a:The price at which a trader of foreign exchange is willing to sell a particular currency
+q:When is a counterpurchase
+a:Exchange of goods between two parties under two distinct contracts expressed in monetary terms
+q:What is a countertrade
+a:Sale of goods to one country that is linked to the purchase or exchange of goods from that same country
+q:What is cross exchange rate
+a:Exchange rate between currency A and currency B, given the values of currencies A and B with respect to a third currency
+q:What is coss-hedging
+a:Hedging an open position in one currency with a hedge on another currency that is highly correlated with the first currency
+q:What is DFI
+a:Investment in real assets in foreign countries
+q:What is a direct quotation
+a:Exchange rate quotations representing the value measured by number of dollars per unit
+q:What is dumping
+a:Selling products overseas at unfairly low prices
+q:What is a foward rate
+a:rate at which a bank is willing to exchange one currency for another at some specified date in the future
+q:What is an indirect quotation
+a:Exchange rate quotations representing the value measured by number of units per dollar
+q:What is the interest rate parity
+a:Theory specifiying that the forward premium is equal to the interest rate differential between the two currencies of concern
+q:What is an interest rate swap
+a:Agreement to swap interest payments, fixed interest rate exchanged for floating interest rate
+q:What is nonsterilized intervention
+a:Intervention in the foreign exchange market without adjusting for the change in money supply
+q:What is the real cost of hedging
+a:Additional cost of hedging when compared to not hedging
+q:What is semistrong-form efficient
+a:All relevant public information is already reflected in prevailing spot exchange rates
+q:What is the exercise/strike price
+a:Price set for buying an asset or selling an asset
+q:What is a spot rate
+a:Current exchange rate of currency
+q:What is a futures price
+a:The price at which a futures trader commits to make or take delivery of the underlying asset
+q:What is strong-form efficient
+a:All relevant public an private information is already reflected in the prevailing spot exchange rates
+q:Why do investors hedge
+a:To reduce the overall risk of a portfolio
+q:What is weak-form efficient
+a:Implying that all historical and current exchange rate information is already reflected in prevailing spot exchange rates
+q:What are the international money markets composed of
+a:Several large banks that accept deposits and provide short term loans in various currencies.
+q:Who Uses the international money markets
+a:mainly the government and large corporations
+q:How are exchange rate movements measured
+a:Commonly by the percent change in their values over a specified period, such as a month or a year
+q:What does LIBOR stand for
+a: London Interbank Offered Rate
+q:What are the factors that can influence exchange rate movement
+a:Inflation rates, interest rates, and income levels as well as government controls
+q:When does one buy a currency futres contract
+a:When the speculator expects the currency to appreciate
+q:What are the classifications for the exchange rate systems
+a:fixed rate, freely floating, managed float, and pegged
+q:What happens when the government sells a currency in the foreign exchange market
+a:Puts downward pressure on the currency's equilibrium value
+q:What are commmon forecasting techniques
+a:Technical, fundamental, market based, and mixed
+q:What is transaction exposure
+a:Exposure of an MNC's contractual transactions to exchange rate movements
+q:What are two techniques to hedge longterm transaction exposure
+a:Long term forward contract and parallel loan
+q:What is a parallel loan
+a:Involves the exchange of currencies between tow parties, with promise to reexchange currencies at a specified exchange rate on a future date
+q:What the techniques to optimize cash flows
+a:Accelerate cash inflows, minimize currency conversion costs, managing blocked funds, implementing intersubsidiary cash transfers
+q:What makes up a straddle
+a:Buy a call and buy put
+q:Why is a fixed exchange rate adventagious
+a:Reduces risk by having a constant exchange rate
+q:How is the premium calculated
+a:The difference between the forward rate and the spot rate at a given point in time is measured by the premium
+q:What is a difference between a forward and future
+a:Forwards are not traded on an exchange and futures are
+q:How do MNC's use forward contracts
+a:To hedge imports, locks in a rate which they can otain a currency needed to purchase imports
+Q: How do you value one countries currency to another countries?
+A: Through exchange rates. 
+Q: Why is that if you weaken your currency you will not always fix your balance of trade.
+A: A country could lowers there price of the good
+Q: What does the foreign exchange market do?
+A: Allow for the exchange of one currency to another. 
+Q: What is the spot exchange rate?
+A: The rate at which one currency could be converted into another currency. 
+Q: How long did the foreign exchange market use the gold standard?
+A: From 1876-1913
+Q: How do you calculate the bid ask spread?
+A: (ask rate – Bid rate)/ Ask rate
+Q: What are order costs.
+A: The costs associated with processing orders and the costs of recording the transactions
+Q: What are inventory costs. 
+A: The costs of holding the inventory in the warehouse for a period of time.
+Q: What is a forward contract. 
+A: The agreement for a foreign exchange dealer and a MNC that specifies currency to be exchanged
+Q: What are Eurobonds
+A:  Bonds that are sold in countries other than the country of the currency denominating the bonds
+Q: How do you calculate the real interest rate
+A: Real interest rate= nominal interest rate – inflation rate 
+Q: What is a currency call option?
+A: It grants the right to buy a specific currency at a specified price during a specified time
+Q: What is a currency put option?
+A: It grants the right to sell a specific currency at a specified price during a specified time
+Q: What is the price price in which the owner of a call option can buy it at?
+A: Exercise price or strike price. 
+Q: What is a good option for dealing with volatile currencies?
+A: Creating a straddle. 
+Q: What is the agency problem?
+A: This is the conflict of goals between a firm’s managers and its shareholders.
+Q: What is the Bid Price?
+A: The price in which someone is willing to pay for a certain security. 
+Q: What is the ask Price? 
+A: The price someone is willing to sell a security. 
+Q: How does firms conduct international business
+A: International trade, licensing, franchising, joint ventures.
+Q: What is licensing?
+A: It obligates a frim to provide its technology in exchange for a certain fee.
+Q: What is franchising?
+A: It obligates a firm to provide a specialized sale or service strategy in exchange for a periodic fee. 
+Q: What is a direct foreign investment?
+A: Business that method of increasing international business with a direct investment. 
+Q: What is the balance of payments?
+A: A summary of transactions between domestic and foreign residents of a country.
+Q: What is the current account?
+A: A summary of cash between one country and all other countries
+Q: What is the capital account?
+A: A summary of cash from a sale of assets between one country and all other countries.
+Q: What is a portfolio investment?
+A: Portfolio investment represents transactions involving long term financial assets between countries
+Q: What is dumping?
+A: Exporting products that were produced with the help of government.
+Q: What is the goal of a firm?
+A: Increase shareholder wealth.
+Q: What is outsourcing?
+A: Outsourcing is when a frim hires foreign labor or a foreign supplier.
+Q: What factors affect international trade flow?
+A: Inflation, National income, government policies, and Exchange rates. 
+Q: What is a tariff?
+A: A tax on imported goods.
+Q: What is a quota?
+A: A maximum limit of goods that can be imported. 
+Q: What is the Compensatory Financing facility?
+A: It attempts to reduce the impact of export instability on a country’s economy.
+Q: When was the world bank established?
+A: 1944
+Q: What was the purpose of the world bank
+A: Its objective to make loans to countries to enhance economic development
+Q: What does it mean when a bond is selling for Par value?
+A: It is selling for the face value.
+Q: What market is used for foreign exchange rates?
+A: Spot market. 
+Q:  What is the American Depository receipts?
+A: It is used for non-us firms to obtain equity financing.
+Q: What is a foreign bond?
+A: A bond issued by a borrower from a foreign country. 
+Q: What is a parallel bond?
+A: A bond that is issued from a variety of countries. 
