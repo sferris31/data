@@ -1334,6 +1334,86 @@ Q: What is the absolute form of PPP based on?
 A: The absolute form of PPP is based on the notion that without international barriers, consumers shift their demand to wherever prices are lower.
 Q: What does the relative form of PPP account for?
 A: The relative form of PPP accounts for the possibility of market imperfections such as transportation costs, tariffs, and quotas. 
+What is the maximum limit that can be imported?
+A quota is the maximum that can be imported.
+How is a country’s currency measured in relation to other currencies?
+A countries currency is measured through exchange rates.
+What is price elasticity?
+Price elasticity is the sensitivity to price changes.
+What was the structured international monetary policy that was established by the United Nations Monetary and Financial Conference?
+The International Monetary Fund was a result of the conference
+What is compensatory financing facility (CFF)?
+The CFF is a key duty of the IMF in which it attempts to reduce the impact of export instability on country economies. 
+What is a quotation that represents the value of a foreign currency in dollars? 
+A direct quote.
+What is a quotation that represent the number of units of a foreign currency per dollar?
+An indirect quote.
+What is the loan rate that floats in accordance with the movement of some market interest rate?
+London Interbank Offer Rate (LIBOR).
+What is a freely floating exchange rate system?
+When exchange rates values are determined by market forces without intervention by governments. 
+What is the job of the European Central Bank (ECB)?
+It is responsible for setting monetary policy for all participating European countries.
+What is nonsterilized intervention?
+When the Fed intervenes in the foreign exchange market without adjusting for the change in the money supply. 
+What are cross exchange rates?
+Cross exchange rates represent the relationship between two currencies that are different from one’s base currency. 
+What is the process of capitalizing on the interest rate differential between two countries while covering your exchange rate risk with a forward contract?
+Covered interest arbitrage. 
+What is the international fisher effect (IFE)?
+The IFE uses interest rate rather than inflation rate differentials to explain why exchange rates change over time. 
+What is the method of mixed forecasting?
+Mixed forecasting is using a combination of forecasting techniques because no single one has been found to be consistent. 
+What does it mean for a foreign exchange market to be strong-form efficient?
+If a foreign exchange market is strong-form efficient, all relevant public and private information is already reflected in today’s exchange rates. 
+What is economic exposure?
+Economic exposure is the sensitivity of a firm’s cash flows to exchange rate movements.
+What is a subset of economic exposure?
+Transaction exposure is a subset of economic exposure.
+What is translation exposure?
+Translation exposure is the exposure of an MNC’s consolidated financial statements to exchange rate fluctuations.
+What does a money market hedge position look like?
+A money market hedge on payables involves taking a money market position to cover a future payables position. 
+How is the real cost of hedging payables calculated?
+The real cost of hedging payables is calculated as cost of hedging payables minus cost of payables if not hedged. 
+What does the real cost of hedging payable measure?
+An MNC can evaluate hedging decisions that they made in the past.
+What is overhedging?
+Overhedging is hedging a larger amount in a currency than the actual transaction amount.
+What is a solution to overhedging?
+A solution to avoid overhedging is to hedge only the minimum known amount in the future contract.
+What does currency diversification do?
+Currency diversification can limit the potential effect of any single currency’s movements on the value of the MNC.
+What is cross hedging?
+Cross hedging is a common method of reducing transaction exposure when the currency cannot be hedged. 
+How do you assess economic exposure?
+The percentage change in a firm’s cash flow is compared to the percentage change in the Euro. 
+What are typical motives for direct foreign investment?
+Typical motives include attracting new sources of demand, enter profitable markets, exploit monopolistic advantages, and diversify internationally.
+What are some cost related motives?
+Some typical motives to try to reduce costs are economies of scale, foreign factors of production, foreign raw materials, and react to exchange rate movements.
+What is economies of scale?
+Economies of scale is lowering the average cost per unit as a result of increased production. 
+What is simulation used for?
+Generation of profitability distribution for NPV based on a range of possible values for one or more input variables. 
+What is dollarization?
+Dollarization is the replacement of a foreign currency with US dollars.
+What does a contingency graph show?
+A contingency graph measures the profit or loss per unit under certain conditions.
+What is a forward contract?
+A forward contract is an agreement between a corporation and a financial institution to exchange a specific amount of a currency at a specific exchange rate on a specific date in the future.
+What is the specific exchange rate in the terms of a forward contract?
+The forward rate.
+How is arbitrage used?
+Arbitrage is used by some investors to earn higher returns than would be possible domestically without taking on additional risk.
+When is a non-deliverable forward contract (NDF) used?
+A NDF contract is frequently used for currencies in emerging markets.
+What is a currency futures contracts?
+A contract specifying a standard volume of a particular currency to be exchanges on a specific settlement date.
+What is a margin requirement used for?
+To cover fluctuations in the value of a contract.
+What is an equilibrium exchange rate?
+An exchange rate in which demand for a currency is equal to the supply of a currency for sale.
 q:What is an arbitrage
 a:Action to capitalize on a discrepancy in quoted prices
 q:What is the asked price
