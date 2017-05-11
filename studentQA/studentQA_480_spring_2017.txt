@@ -1494,3 +1494,102 @@ Q: What is a foreign bond?
 A: A bond issued by a borrower from a foreign country. 
 Q: What is a parallel bond?
 A: A bond that is issued from a variety of countries. 
+Q: What does MNC stand for?
+a.	Multinational Corporations
+Q: Explain the agency problem of MNCs.
+a.	The agency problem of MNCs is a conflict of interest that occurs between a company's stockholders and management of the company
+Q: What does IDA stand for?
+a.	International Development Association
+Q: What does OECD stand for?
+a.	Organization for Economic Cooperation and Development
+Q: What does BIS stand for?
+a.	Bank for International Settlements
+Q: What is Franchising?
+a.	It obligates a firm to provide a specialized sale or service strategy, support assistance, and possibly an initial investment in the franchise in exchange for periodic fees.
+Q: What is a Joint Venture?
+a.	A venture that is jointly owned and operated by two or more firms.
+Q: What is the Domestic Model Formula used to find?
+a.	It is used to find value of a purely domestic firm.
+Q: What factors cause some firms to become more internationalized than others?
+a.	International trade
+b.	Licensing
+c.	Franchising
+d.	Joint Venture
+Q: What are the main components of the current account for payments?
+a.	Merchandise and Services
+b.	Factor Income
+c.	Transfers
+Q: What does GATT stand for?
+a.	General Agreement on Tariffs and Trade
+Q: What does NAFTA stand for?
+a.	North American Free Trade Agreement
+Q: Definition of Dumping?
+a.	When exporting of products that were produced with the help of government subsidies.
+Q: What are the most influential factors of international trade?
+a.	Inflation
+b.	National income
+c.	Government policies
+d.	Exchange Rate
+Q: What does CFF stand for?
+a.	Compensatory Financing Facility
+Q: What does SDR stand for?
+a.	Special Drawing Rights
+Q: What does IFC stand for?
+a.	International Financial Corporation
+Q: What does WTO stand for?
+a.	World Trade Organization
+Q: What does MIGA stand for?
+a.	Multilateral Investment Guarantee Agency
+Q: What does IBRD stand for?
+a.	International Bank for Reconstruction and Development
+Q: What is the Bretton Woods Agreement?
+a.	An agreement called for fixed exchange rates between currencies.
+Q: How can governments of foreign countries can influence the equilibrium exchange rate?
+a.	Imposing foreign exchange barriers
+b.	Foreign trade barriers
+c.	Intervening in the foreign exchange markets
+d.	Affecting marco variables such as inflation
+Q: What does NDF stand for?
+a.	Non-derivable forward contract
+Q: What is another term for a Seller?
+a.	Writer
+Q: What does ERM stand for?
+a.	Exchange Rate Mechanism
+Q: Three reasons the US has Central Banks
+a.	To smooth exchange rate movement
+b.	Establish implicit exchange rate boundries
+c.	Respond to temporary disturbances
+Q: Definition of Nonsterilized intervention
+a.	When the Fed intervenes in the foreign exchange market without adjusting for the change in the money supply.
+Q: Definition of Sterilized intervention
+a.	The Fed intervenes in the foreign exchange market and simultaneously engages in offsetting transractions.
+Q: Definition of Arbitrage
+a.	Capitalizing on a discrepancy in quoted prices by making a riskless profit
+Q: Explain Triangular Arbitrage
+a.	Represents the relationship between two currencies that are different from one’s base currency
+Q: What does IRP stand for?
+a.	Interest Rate Parity
+Q: What is the PPP theory?
+a.	This theory attempts to quantify the inflation exchange rate relationship
+Q: What does the fisher effect suggest?
+a.	Expected inflation rates
+b.	Real rate of interest.
+Q: What is fundamental forecasting?
+a.	Fundamental forecasting is based on fundamental relationships between economic variables and exchange rate.
+Q: What is market-based forecasting based on?
+a.	Spot rate
+b.	Forward rate
+Q: Formula for real cost of hedging payables
+a.	RCH=Cost of Hedging payables- cost of payables not hedged
+Q: Alternative Hedging Technique
+a.	Leading and lagging
+b.	Cross-hedging
+c.	Currency diversification
+Q: The key components of the financial account are payments for
+a.	Direct foreign investment
+b.	Portfolio investment
+c.	Other capital investment
+Q: What is the J-curve effect?
+a.	When the US balance of trade improves and the illustration on a graph looks like a J
+Q: Define Privatization
+a.	It allows for greater international business as foreign firms can acquire operations sold by national government.
