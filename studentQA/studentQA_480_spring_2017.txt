@@ -1414,3 +1414,83 @@ q:What is a difference between a forward and future
 a:Forwards are not traded on an exchange and futures are
 q:How do MNC's use forward contracts
 a:To hedge imports, locks in a rate which they can otain a currency needed to purchase imports
+Q: How do you value one countries currency to another countries?
+A: Through exchange rates. 
+Q: Why is that if you weaken your currency you will not always fix your balance of trade.
+A: A country could lowers there price of the good
+Q: What does the foreign exchange market do?
+A: Allow for the exchange of one currency to another. 
+Q: What is the spot exchange rate?
+A: The rate at which one currency could be converted into another currency. 
+Q: How long did the foreign exchange market use the gold standard?
+A: From 1876-1913
+Q: How do you calculate the bid ask spread?
+A: (ask rate – Bid rate)/ Ask rate
+Q: What are order costs.
+A: The costs associated with processing orders and the costs of recording the transactions
+Q: What are inventory costs. 
+A: The costs of holding the inventory in the warehouse for a period of time.
+Q: What is a forward contract. 
+A: The agreement for a foreign exchange dealer and a MNC that specifies currency to be exchanged
+Q: What are Eurobonds
+A:  Bonds that are sold in countries other than the country of the currency denominating the bonds
+Q: How do you calculate the real interest rate
+A: Real interest rate= nominal interest rate – inflation rate 
+Q: What is a currency call option?
+A: It grants the right to buy a specific currency at a specified price during a specified time
+Q: What is a currency put option?
+A: It grants the right to sell a specific currency at a specified price during a specified time
+Q: What is the price price in which the owner of a call option can buy it at?
+A: Exercise price or strike price. 
+Q: What is a good option for dealing with volatile currencies?
+A: Creating a straddle. 
+Q: What is the agency problem?
+A: This is the conflict of goals between a firm’s managers and its shareholders.
+Q: What is the Bid Price?
+A: The price in which someone is willing to pay for a certain security. 
+Q: What is the ask Price? 
+A: The price someone is willing to sell a security. 
+Q: How does firms conduct international business
+A: International trade, licensing, franchising, joint ventures.
+Q: What is licensing?
+A: It obligates a frim to provide its technology in exchange for a certain fee.
+Q: What is franchising?
+A: It obligates a firm to provide a specialized sale or service strategy in exchange for a periodic fee. 
+Q: What is a direct foreign investment?
+A: Business that method of increasing international business with a direct investment. 
+Q: What is the balance of payments?
+A: A summary of transactions between domestic and foreign residents of a country.
+Q: What is the current account?
+A: A summary of cash between one country and all other countries
+Q: What is the capital account?
+A: A summary of cash from a sale of assets between one country and all other countries.
+Q: What is a portfolio investment?
+A: Portfolio investment represents transactions involving long term financial assets between countries
+Q: What is dumping?
+A: Exporting products that were produced with the help of government.
+Q: What is the goal of a firm?
+A: Increase shareholder wealth.
+Q: What is outsourcing?
+A: Outsourcing is when a frim hires foreign labor or a foreign supplier.
+Q: What factors affect international trade flow?
+A: Inflation, National income, government policies, and Exchange rates. 
+Q: What is a tariff?
+A: A tax on imported goods.
+Q: What is a quota?
+A: A maximum limit of goods that can be imported. 
+Q: What is the Compensatory Financing facility?
+A: It attempts to reduce the impact of export instability on a country’s economy.
+Q: When was the world bank established?
+A: 1944
+Q: What was the purpose of the world bank
+A: Its objective to make loans to countries to enhance economic development
+Q: What does it mean when a bond is selling for Par value?
+A: It is selling for the face value.
+Q: What market is used for foreign exchange rates?
+A: Spot market. 
+Q:  What is the American Depository receipts?
+A: It is used for non-us firms to obtain equity financing.
+Q: What is a foreign bond?
+A: A bond issued by a borrower from a foreign country. 
+Q: What is a parallel bond?
+A: A bond that is issued from a variety of countries. 
