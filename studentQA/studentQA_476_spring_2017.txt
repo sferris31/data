@@ -145,4 +145,159 @@ A: The comparison universe is the collection of money managers of similar invest
 Q: What is the information ratio?
 A: The information ratio is a ratio of alpha to the standard deviation of diversifiable risk. 
 
+Q: What is a Hedge Fund
+A: a limited partnership of investors that uses high risk methods, such as investing with borrowed money, in hopes of realizing large capital gains
+Q: what is a tranche
+A: a portion of something, especially money
+Q: What is a stock
+A: An equity security that is a purchased ownership interest in a company entitling you to a portion or profits
+Q: What is a corporate bond
+A: debt instrument issued by a company that acts as a loan when you invest in the bond. 
+Q: What is a government bond
+A: bond issued by the US federal government; commonly used bond to help finance national debt
+Q: What is a municipal bond
+A: debt securities from state and local government entities
+Q: What is a mutual fund
+A: A fund made up of a variety of diversified securities
+Q: what is a stock option
+A: the right to buy or sell stock at a certain price for a period of time
+Q: what is a call option
+A: the right to buy a stock for a specified price 
+Q: what is a put option
+A: the right to sell a stock for a specified price
+Q: What is a futures contract
+A: an agreement to sell a specific commodity at a specified price at a future date
+Q: What is a futures option
+A: The right to buy or sell a futures contract at a certain price for a specified period of time
+Q: What type of security is a stock option?
+A: a derivative security
+Q: What type of security is a futures contract
+A: a derivative security
+Q: Who sets the laws regulating the trading of securities
+A: The Securities and Exchange Commission (SEC)
+Q: What type of security is a mutual fund
+A: It is an equity security
+Q: What type of security is a bond
+A: A debt security
+Q: What is the Pecking Order Theory
+A: that firms have a preferred order of funds/capital sources that they use in order
+Q: What is the intrinsic value of a stock
+A: value based on the company’s fundamentals
+Q: What is the market value of a stock
+A: value based on marginal investments of the stock in the market
+Q: What is pairs trading
+A: a market-neutral trading strategy that matches a long position with a short position in a pair of highly correlated securities
+Q: What is active trading
+A: buying and selling securities on short-term durations to profit from rapid price movements 
+Q: What is day trading
+A: A method of active trading that buys and sells securities within the same day
+Q: What is position trading
+A: Uses long-term charts and other methods to determine the trends of the market to trade
+Q: What is the bid price of a security
+A: the maximum price that a buyer is willing to pay for a security
+Q: What is the ask price of a security
+A: The minimum that a seller is willing to receive for a security
+Q: What is the bid-ask spread
+A: The difference between the bid price and the ask price of a security
+Q: What is arbitrage
+A: Buying and selling securities simultaneously to make a risk-free return
+Q: What is the efficient frontier
+A: the set of optimal portfolios that offers the highest expected return for a defined level of risk
+Q: What is a portfolio
+A: a range of investments held by a person or organization 
+Q: What is diversification 
+A: the process of a mixing a wide variety of investments within a portfolio
+Q: What is an interest rate swap
+A: switches the interest rate a between fixed or floating rate
+Q: What is the security market line
+A: SML shows how much inventors require in return for the systematic risk for their investment
+Q: Who first formulated single period portfolio optimization using mean and variance
+A: Markowitz
+Q: What is the input for a Markowitz portfolio
+A: Expected returns, standard deviations, and correlation matrix between each asset
+Q: What is the law of one price
+A: if two securities have the same payoff in all states of the world, then the two securities must have the same price
+Q: What is a market neutral strategy
+A: Market risk is removed by using pairs trading with uncorrelated market returns
+Q: What is portfolio insurance
+A: replicating a protected put through watching delta and trading to lower the risk and insure the portfolio
+Q: What is a callable bond
+A: a bond that a company can buy back at any time at a specified price
+Q: what is a putable bond
+A: a bond that can be sold by the holder at any time
+Q: What is an ETF
+A: an electronically traded fund that is traded like a stock within the market
+Q: What is the purpose of the Black Scholes Model
+A: to price options
+Q: what is a commodity 
+A: a raw material that can be bought and sold
+Q: An unsystematic risk that can be eliminated but market risk 
+A: Remaining risk
+Q: The type of risk that is avoidable through diversification
+A: Unsystematic risk
+Q: Risk that can’t be avoided through diversification 
+A: Systematic risk
+Q: Measure of the degree to which two securities move together
+A: Covariance
+Q: Aggressive stock will have a low or high beta
+A: High
+Q: What is the characteristic line
+A: line that represents the relationship between a security’s returns and the returns on the market portfolio
+Q: What is the beta of a risk-free security
+A: Zero
+Q: Beta is the slope of what line
+A: a characteristic line
+Q: What does beta measure
+A: the unavoidable risk of a security
+Q: what is a company or individual that prefer low-risk and low-return investments
+A: Risk-averse
+Q: What is the measure of share price volatility
+A: beta
+Q: Modern portfolio theory was introduced in 1952 by 
+A: Markowitz
+Q: What is the starting point of a capital market line
+A: risk-free return
+Q: What is the utility curve
+A: An investor’s indifference curve
+Q: What is an investment strategy that reduces portfolio risk without reducing return
+A: diversification
+Q: What is an optimal portfolio
+A: an efficient portfolio that maximizes an investor’s preferences of risk and return
+Q: What does delta measure in an option
+A: the degree to which an option is exposed to shifts in the price of a specific asset
+Q: What is the hedge ratio
+A: the ratio which compares the value of futures contracts to the value of the cash commodity being hedged
+Q: What is hedging
+A: an investment position intended to offset potential losses or gains that may be incurred by a companion investment
+
+
+
+Q: What is the utility score do as the rate of return increases
+A: increase
+Q: What is the utility score formula
+A:  Utility Score = Expected Return – 0.005σ2 × Risk Aversion Coefficient
+Q: What is the CAPM equation
+A: Expected return- Rf + Beta (Rm – Rf) 
+Q: What does the Sharpe ratio measure
+A: Indicates the average return minus the risk-free return divided by the standard deviation of return on an investment
+Q: What is liquidity
+A: the availability of liquid assets to a market or company
+Q: What is the liquidity ratio
+A: The ratio between liquid assets and the liabilities of an institution
+Q: What does the Fisher Equation tell us
+A: the relationship between nominal and real interest rates under inflation
+Q: What is the Fisher Equation
+A: real interest rate ≈ nominal interest rate − inflation rate
+Q: How do you correct nominal interest rate for inflation
+A: subtract the inflation rate from the nominal interest rate
+Q: What is market risk
+A: systematic risk that can’t be eliminated through diversification 
+
+
+
+
+
+
+
+
 
