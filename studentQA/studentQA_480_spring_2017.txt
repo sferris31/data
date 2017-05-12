@@ -1,3 +1,81 @@
+What are factors that effect a nation’s economy?
+Inflation, national income, government policies, and exchange rates
+What is a forward contract?
+A forward contract is an agreement between a foreign exchange dealer and an MNC that specifies the currencies to be exchanged.
+When was the gold standard implemented?
+The 1800s and early 1900’s
+What does PPP stand for?
+Purchasing Power Parity
+What is the forward rate formula?
+F=S(1 + p)
+How is international financial management different from domestic financial management?
+Foreign exchange and political risks, market imperfections, and expanded opportunity.
+What are the various categories of multinational firms?
+Raw materials seekers, market seekers, and cost minimizers.
+What is an efficient market?
+An efficient market is one in which new information is readily incorporated in the prices of traded securities.
+What is the basic message of the CAPM?
+Risk is priced in a portfolio context, systematic risk is priced; unsystematic risk is not priced and doesn't affect the required return a project.
+How might a multinational firm use the CAPM?
+CAPM can be used to estimate the required return on foreign projects.
+	What is the goal of Multinational Corporation (MNC)
+to maximize shareholder wealth
+	What is the World Trade Organization (WTO)?
+WTO was established by General Agreement on Tariffs and Trade (GATT) to provide a forum for multilateral trade negotiations and to settle trade disputes since 1994.
+	What are the details of licensing?
+Copyrights, patents, trademarks, or trade names in exchange for fees or some other benefits.
+What is foreign exchange risk?
+The risk of valuation changes resulting from unforeseen currency movements.
+What are indirect methods of adjusting funds flow?
+Adjust transfer prices, leading and lagging receivables
+What is arbitrage?
+The simultaneous purchase and sale of the same assets or commodities on different markets to profit from price discrepancies.
+What is the International Fisher effect?
+Parody condition that says that interest differential between two countries should be an unbiased predictor of the future change in the spot rate
+What is currency forecasting?
+Prediction of future exchange rates.
+What is market-based forecast?
+Forecast that rely on information already embedded in market prices.
+What are the balances of trade?
+= exports – imports
+Factors Affecting International Trade Flows
+Impact of Inflation, National Income, Government Restrictions, Exchange Rates
+What is the impact of inflation?
+A relative increase in a country's inflation rate will decrease its current account, as imports increase and exports decrease.
+What are the factors that effect DFI?
+Changes in Restrictions, Privatization, Potential Economic Growth, Tax Rates, Exchange Rates
+What is foreign exchange market?
+Allows currencies to be exchanged in order to facilitate international trade or financial transactions.
+What are Factors that Influence Exchange Rates?
+Spot rate, inflation rate, interest rate, income level, government control, expectations of future exchange rates.
+What are BRIC countries?
+Brazil, Russia, India, and China
+What are BIITS countries?
+Brazil, India, Indonesia, Turkey, South Africa, which are also termed the fragile five.
+What are MINT countries?
+Mexico, Indonesia, Nigeria, Turkey
+What are MID rates?
+The middle or the average of the rates at which currency traders buy currency.
+What are Eurocurrencies?
+domestic currencies of one country on deposit in a second country
+What are Institutions?
+Are the central banks, commercial, and investment banks. Their health keeps the global financial system stable.
+What are Multinational enterprise (MNE)?
+Is a company that is incorporated in one country and has production and distribution facilities in other countries?
+What is the definition of Foreign Exchange?
+The money of a foreign country (foreign currency bank balances, banknotes, checks and drafts) in relation to the home currency.
+What is a transnational corporation?
+A MNE whose ownership is widely spread; managed from a global perspective.
+What is the purpose of the "International Parity Conditions"?
+Economic theory that links FX rates, price levels and interest rates and therefore explains changes in FX rates.
+What is a forward premium/discount?
+The percentage difference between the spot and the forward exchange rate.
+What is the so-called agency problem?
+Separation of ownership from management with the objectives may not be perfectly aligned
+What are possible ways of corporate governance regimes?
+market-based, family-based, bank-based, government affiliated
+What are the three main IMF Exchange Rate Classifications?
+Hard Pegs, Soft Pegs, Floating Arrangements
 What are some ways firms can engage in international business?
 Importing and exporting, licensing, franchising, joint ventures, buying a local company, or starting a foreign company. 
 What are examples of direct foreign investment?
