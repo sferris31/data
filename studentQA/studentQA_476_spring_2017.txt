@@ -82,7 +82,7 @@ What does a passive strategy describe?
 A passive strategy describes a portfolio decision that avoids any direct or indirect security analysis. 
 What is the capital market line (CML)?
 The capital allocation line provided by 1-month T-bills and a broad index of common stocks. 
-Q. What is the insurance principle?
+What is the insurance principle?
 The reduction of risk to very low levels in the case of independent risk sources. 
 What is the risk that remains even after extensive diversification?
 Market risk. 
