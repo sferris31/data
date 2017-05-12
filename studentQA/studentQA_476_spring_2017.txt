@@ -1,303 +1,284 @@
-Q: What is one way to go about estimating the levels of risk aversion we might expect to observe in practice?
-A: To observe individuals’ decisions when confronted with risk. 
-Q: What does the capital allocation line (CAL) depict?
-A: The CAL depicts all the risk-return combinations available to investors.
-Q: What does the slope of the CAL equal?
-A: The slope of CAL (S) equals the increase in the expected return of the complete portfolio per unit of additional standard deviation. 
-Q: What does the security market line (SML) portray?
-A: The SML portrays the expected return-beta relationship (graphically).
-Q: What is a stock’s alpha?
-A: A stock’s alpha is the difference between the fair and actually expected rates of return on a stock.
-Q: What is the liquidity of an asset?
-A: The liquidity of an asset is the ease and speed with which it can be sold at fair market value. 
-Q: How can illiquidity be measured?
-A: Illiquidity can be measured in part by the discount from fair market value a seller must accept if the asset is to be sold quickly.
-Q: A perfectly liquid asset is one that would entail no illiquidity discount.
-A: True.
-Q: What is the single-factor model?
-A: r_i=E(r_i )+ β_i F+e_i
-Q: What are coefficients sometimes called?
-A: Factor sensitivities, factor loadings, or factor betas.
-Q: What does the Law of One Price state?
-A: The Law of One Price states that if two assets are equivalent in all economically relevant respects, then they should have the same market price. 
-Q: What does the strong-form version of the efficient market hypothesis state?
-A: The strong-form version of the efficient market hypothesis states that stock prices reflect all information relevant to the firm, even including information available only to company insiders. 
-Q: What is technical analysis?
-A: Technical analysis is essentially the search for recurrent and predictable patterns in stock prices.
-
-Q: What does fundamental analysis represent?
-A: It represents an attempt to determine the present discounted value of all the payments a stockholder will receive from each share of stock. 
-Q: What is the pure exchange rate risk?
-A: Exchange rate risk is the risk borne by investments in foreign safe assets.
-Q: What does currency selection measure?
-A: Currency selection measures the contribution to total portfolio performance attributable to exchange rate fluctuations relative to the investor’s benchmark currency, which we will take to be the U.S. dollar. 
-Q: What does country selection measure?
-A: Country selection measures the contribution to performance attributable to investing in the better-performing stock markets of the world. 
-Q: How can stock selection be measured?
-A: Stock selection ability may be measured as the weighted average of equity returns in excess of the equity index in each country.
-Q: How can cash/bond selection be measured?
-A: Cash/bond selection may be measured as the excess return derived from weighting bonds and bills differently from some benchmark weights. 
-Q: What are the three basic factors that determine the real interest rate?
-A: Supply, demand, and government actions.
-Q: How can we state the so-called Fisher equation?
-A: R=r+E(i)
-Q: What is the effective annual rate (EAR)?
-A: The percentage increase in funds invested over a 1-year horizon.
-Q: What is the excess return?
-A: The difference in any particular period between the actual rate of return on a risky asset and the risk-free rate. 
-Q: The degree to which investors are willing to commit funds to stocks depends on?
-A: Risk aversion. 
-Q: What is the Sharpe ratio (for portfolios)?
-A: Sharpe ratio (for portfolios)=  (Risk Premium)/(SD of excess return)
-
-Q: What is Kurtosis?
-A: Kurtosis is a measure of the degree of fat tails.
-Q: What is Kurtosis equal to?
-A: Kurtosis=  〖E[r(s)-E(r)]〗^4/σ^4 -3
-Q: What is the formula for Skew?
-A: Skew=  〖E[r(s)-E(r)]〗^3/σ^3 
-Q: If the true distribution of continuously compounded returns is normal, both kurtosis and skewness should be?
-A: Zero. 
-Q: What does CTE stand for?
-A: Conditional tail expectation.
-Q: What is an appropriate measure of risk for non-normal distributions is the standard deviation computed solely from values below the expected return?
-A: This is a measure of “downside risk” and is called the lower partial standard deviation (LPSD).
-Q: What is the conditional tail expectation?
-A: Expectation of a random variable conditional on its falling below some threshold value. Often used as a measure of down-side risk. 
-Q: A risky investment with a risk premium of zero is sometimes called what?
-A: A fair game. 
-Q: What do investors who are risk averse reject?
-A: Investors who are risk averse reject investment portfolios that are fair games or worse. 
-Q: What is the utility score?
-A: U=E(r)-1⁄2 Aσ^2
-Q: What do risk-neutral investors judge?
-A: Risk-neutral investors judge risky prospects solely by their expected rates of return. 
-Q: What do risk lovers engage in?
-A:  A risk lover is willing to engage in fair games and gambles; this investor adjusts the expected return upward to take into account the “fun” of confronting the prospect’s risk. 
-Q: The Sharpe ratio is also referred to as?
-A: The reward-to-volatility ratio.
-Q: The expected return of the complete portfolio equation is equal to?
-A: E(r_C )=r_f+y[E(r_P )-r_f ]
-Q: The variance of the overall portfolio is?
-A: σ_C^2=y^2 σ_P^2
-Q: What does a passive strategy describe?
-A: A passive strategy describes a portfolio decision that avoids any direct or indirect security analysis. 
-Q: What is the capital market line (CML)?
-A: The capital allocation line provided by 1-month T-bills and a broad index of common stocks. 
+What is one way to go about estimating the levels of risk aversion we might expect to observe in practice?
+To observe individuals’ decisions when confronted with risk. 
+What does the capital allocation line (CAL) depict?
+The CAL depicts all the risk-return combinations available to investors.
+What does the slope of the CAL equal?
+The slope of CAL (S) equals the increase in the expected return of the complete portfolio per unit of additional standard deviation. 
+What does the security market line (SML) portray?
+The SML portrays the expected return-beta relationship (graphically).
+What is a stock’s alpha?
+A stock’s alpha is the difference between the fair and actually expected rates of return on a stock.
+What is the liquidity of an asset?
+The liquidity of an asset is the ease and speed with which it can be sold at fair market value. 
+How can illiquidity be measured?
+Illiquidity can be measured in part by the discount from fair market value a seller must accept if the asset is to be sold quickly.
+A perfectly liquid asset is one that would entail no illiquidity discount.
+True.
+What is the single-factor model?
+r_i=E(r_i )+ β_i F+e_i
+What are coefficients sometimes called?
+Factor sensitivities, factor loadings, or factor betas.
+What does the Law of One Price state?
+The Law of One Price states that if two assets are equivalent in all economically relevant respects, then they should have the same market price. 
+What does the strong-form version of the efficient market hypothesis state?
+The strong-form version of the efficient market hypothesis states that stock prices reflect all information relevant to the firm, even including information available only to company insiders. 
+What is technical analysis?
+Technical analysis is essentially the search for recurrent and predictable patterns in stock prices.
+What does fundamental analysis represent?
+It represents an attempt to determine the present discounted value of all the payments a stockholder will receive from each share of stock. 
+What is the pure exchange rate risk?
+Exchange rate risk is the risk borne by investments in foreign safe assets.
+What does currency selection measure?
+Currency selection measures the contribution to total portfolio performance attributable to exchange rate fluctuations relative to the investor’s benchmark currency, which we will take to be the U.S. dollar. 
+What does country selection measure?
+Country selection measures the contribution to performance attributable to investing in the better-performing stock markets of the world. 
+How can stock selection be measured?
+Stock selection ability may be measured as the weighted average of equity returns in excess of the equity index in each country.
+How can cash/bond selection be measured?
+Cash/bond selection may be measured as the excess return derived from weighting bonds and bills differently from some benchmark weights.
+What are the three basic factors that determine the real interest rate?
+Supply, demand, and government actions.
+How can we state the so-called Fisher equation?
+R=r+E(i)
+What is the effective annual rate (EAR)?
+The percentage increase in funds invested over a 1-year horizon.
+What is the excess return?
+The difference in any particular period between the actual rate of return on a risky asset and the risk-free rate. 
+The degree to which investors are willing to commit funds to stocks depends on?
+Risk aversion. 
+What is the Sharpe ratio (for portfolios)?
+Sharpe ratio (for portfolios)=  (Risk Premium)/(SD of excess return)
+What is Kurtosis?
+Kurtosis is a measure of the degree of fat tails.
+What is Kurtosis equal to?
+Kurtosis=  〖E[r(s)-E(r)]〗^4/σ^4 -3
+What is the formula for Skew?
+Skew=  〖E[r(s)-E(r)]〗^3/σ^3 
+If the true distribution of continuously compounded returns is normal, both kurtosis and skewness should be?
+Zero. 
+What does CTE stand for?
+Conditional tail expectation.
+What is an appropriate measure of risk for non-normal distributions is the standard deviation computed solely from values below the expected return?
+This is a measure of “downside risk” and is called the lower partial standard deviation (LPSD).
+What is the conditional tail expectation?
+Expectation of a random variable conditional on its falling below some threshold value. Often used as a measure of down-side risk. 
+A risky investment with a risk premium of zero is sometimes called what?
+A fair game. 
+What do investors who are risk averse reject?
+Investors who are risk averse reject investment portfolios that are fair games or worse. 
+What is the utility score?
+U=E(r)-1⁄2 Aσ^2
+What do risk-neutral investors judge?
+Risk-neutral investors judge risky prospects solely by their expected rates of return. 
+What do risk lovers engage in?
+ A risk lover is willing to engage in fair games and gambles; this investor adjusts the expected return upward to take into account the “fun” of confronting the prospect’s risk. 
+The Sharpe ratio is also referred to as?
+The reward-to-volatility ratio.
+The expected return of the complete portfolio equation is equal to?
+E(r_C )=r_f+y[E(r_P )-r_f ]
+The variance of the overall portfolio is?
+σ_C^2=y^2 σ_P^2
+What does a passive strategy describe?
+A passive strategy describes a portfolio decision that avoids any direct or indirect security analysis. 
+What is the capital market line (CML)?
+The capital allocation line provided by 1-month T-bills and a broad index of common stocks. 
 Q. What is the insurance principle?
-A: The reduction of risk to very low levels in the case of independent risk sources. 
-Q: What is the risk that remains even after extensive diversification?
-A: Market risk. 
-Q: Market risk is also known as?
-A: Systematic risk or nondiversifiable risk. 
-Q: The risk that can be eliminated by diversification is called?
-A: Unique risk, firm-specific risk, nonsystematic risk, or diversifiable risk. 
-Q: The minimum-variance portfolio has a standard deviation of what?
-A: The minimum-variance portfolio has a standard deviation smaller than that of either of the individual component assets.
-Q: What is the portfolio opportunity set?
-A: The expected return-standard deviation pairs of all portfolios that can be constructed from a given set of assets. 
-Q: What is the reward-to-volatility (Sharpe) ratio?
-A: The reward-to-volatility (Sharpe) ratio is the slope of the CAL combining T-bills and the minimum-variance portfolio. 
-Q: What is the optimal risky portfolio?
-A: Optimal risky portfolio is an investor’s best combination of risky assets to be mixed with safe assets to form the complete portfolio. 
-
-
-
-Q: What is the minimum-variance frontier?
-A: The frontier is a graph of the lowest possible variance that can be attained for a given portfolio expected return. 
-Q: What is the part of the frontier that lies above the global minimum-variance portfolio?
-A: The efficient frontier of risky assets.
-Q: What is a separation property?
-A: A separation property is the property that portfolio choice can be separated into two independent tasks: (1) determination of the optimal risky portfolio, which is purely technical problem, and (2) the personal choice of the best mix of the risky portfolio and the risk-free asset.
-Q: What does SCL stand for?
-A: Security characteristic line.
-Q: What is the security characteristic line? 
-A: The security characteristic line (SCL) is a plot of the excess return on a security over the risk-free rate as a function of the excess return on the market.
-Q: What is the book-to-market effects?
-A: The tendency for stocks of firms with high ratios of book-to-market value to generate abnormal returns. 
-Q: What does the M^2 measure focus on?
-A: The  M^2measure focuses on total volatility as a measure of risk, but its risk-adjusted measure of performance has the easy interpretation of a differential return relative to the benchmark index. 
-Q: M^2 is equal to:
-A: M^2= r_(P*)-r_M
-Q: The risk profile of hedge funds may change rapidly.
-A: True.
-Q: Hedge funds have greater leeway than what?
-A: Hedge funds have far greater leeway than mutual funds to change investment strategy opportunistically. 
-Q: Hedge funds tend to invest in what type of assets?
-A: Illiquid assets.
-Q: Many hedge funds pursue what type of strategies?
-A: Many hedge funds pursue strategies that may provide apparent profits over long periods of time, but expose the fund to infrequent but severe losses. 
-
-Q: When hedge funds are evaluated as a group, what can be a major consideration?
-A: When hedge funds are evaluated as a group, survivorship bias can be a major consideration, because turnover in this industry is far higher than for investment companies such as mutual funds.
-Q: What pays the risk-free return when the market is bearish?
-A: The portfolio.
-Q: The attribution method explains the difference in returns between a managed portfolio, P, and a selected benchmark portfolio, B, is called?
-A: Bogey.
-Q: What is the bogey portfolio’s rate of return?
-A: r_B=∑_(i=1)^n▒〖W_Bi r_Bi 〗
-Q: What is Sharpe’s measure?
-A: Sharpe’s measure is the reward-to-volatility ratio; ratio of portfolio excess return to standard deviation.
-Q: What is the dollar-weighted rate of return?
-A: The dollar-weighted rate of return is the internal rate of return on an investment.
-Q: What is the comparison universe?
-A: The comparison universe is the collection of money managers of similar investment style used for assessing relative performance of a portfolio manager. 
-Q: What is the information ratio?
-A: The information ratio is a ratio of alpha to the standard deviation of diversifiable risk. 
-
-Q: What is a Hedge Fund
-A: a limited partnership of investors that uses high risk methods, such as investing with borrowed money, in hopes of realizing large capital gains
-Q: what is a tranche
-A: a portion of something, especially money
-Q: What is a stock
-A: An equity security that is a purchased ownership interest in a company entitling you to a portion or profits
-Q: What is a corporate bond
-A: debt instrument issued by a company that acts as a loan when you invest in the bond. 
-Q: What is a government bond
-A: bond issued by the US federal government; commonly used bond to help finance national debt
-Q: What is a municipal bond
-A: debt securities from state and local government entities
-Q: What is a mutual fund
-A: A fund made up of a variety of diversified securities
-Q: what is a stock option
-A: the right to buy or sell stock at a certain price for a period of time
-Q: what is a call option
-A: the right to buy a stock for a specified price 
-Q: what is a put option
-A: the right to sell a stock for a specified price
-Q: What is a futures contract
-A: an agreement to sell a specific commodity at a specified price at a future date
-Q: What is a futures option
-A: The right to buy or sell a futures contract at a certain price for a specified period of time
-Q: What type of security is a stock option?
-A: a derivative security
-Q: What type of security is a futures contract
-A: a derivative security
-Q: Who sets the laws regulating the trading of securities
-A: The Securities and Exchange Commission (SEC)
-Q: What type of security is a mutual fund
-A: It is an equity security
-Q: What type of security is a bond
-A: A debt security
-Q: What is the Pecking Order Theory
-A: that firms have a preferred order of funds/capital sources that they use in order
-Q: What is the intrinsic value of a stock
-A: value based on the company’s fundamentals
-Q: What is the market value of a stock
-A: value based on marginal investments of the stock in the market
-Q: What is pairs trading
-A: a market-neutral trading strategy that matches a long position with a short position in a pair of highly correlated securities
-Q: What is active trading
-A: buying and selling securities on short-term durations to profit from rapid price movements 
-Q: What is day trading
-A: A method of active trading that buys and sells securities within the same day
-Q: What is position trading
-A: Uses long-term charts and other methods to determine the trends of the market to trade
-Q: What is the bid price of a security
-A: the maximum price that a buyer is willing to pay for a security
-Q: What is the ask price of a security
-A: The minimum that a seller is willing to receive for a security
-Q: What is the bid-ask spread
-A: The difference between the bid price and the ask price of a security
-Q: What is arbitrage
-A: Buying and selling securities simultaneously to make a risk-free return
-Q: What is the efficient frontier
-A: the set of optimal portfolios that offers the highest expected return for a defined level of risk
-Q: What is a portfolio
-A: a range of investments held by a person or organization 
-Q: What is diversification 
-A: the process of a mixing a wide variety of investments within a portfolio
-Q: What is an interest rate swap
-A: switches the interest rate a between fixed or floating rate
-Q: What is the security market line
-A: SML shows how much inventors require in return for the systematic risk for their investment
-Q: Who first formulated single period portfolio optimization using mean and variance
-A: Markowitz
-Q: What is the input for a Markowitz portfolio
-A: Expected returns, standard deviations, and correlation matrix between each asset
-Q: What is the law of one price
-A: if two securities have the same payoff in all states of the world, then the two securities must have the same price
-Q: What is a market neutral strategy
-A: Market risk is removed by using pairs trading with uncorrelated market returns
-Q: What is portfolio insurance
-A: replicating a protected put through watching delta and trading to lower the risk and insure the portfolio
-Q: What is a callable bond
-A: a bond that a company can buy back at any time at a specified price
-Q: what is a putable bond
-A: a bond that can be sold by the holder at any time
-Q: What is an ETF
-A: an electronically traded fund that is traded like a stock within the market
-Q: What is the purpose of the Black Scholes Model
-A: to price options
-Q: what is a commodity 
-A: a raw material that can be bought and sold
-Q: An unsystematic risk that can be eliminated but market risk 
-A: Remaining risk
-Q: The type of risk that is avoidable through diversification
-A: Unsystematic risk
-Q: Risk that can’t be avoided through diversification 
-A: Systematic risk
-Q: Measure of the degree to which two securities move together
-A: Covariance
-Q: Aggressive stock will have a low or high beta
-A: High
-Q: What is the characteristic line
-A: line that represents the relationship between a security’s returns and the returns on the market portfolio
-Q: What is the beta of a risk-free security
-A: Zero
-Q: Beta is the slope of what line
-A: a characteristic line
-Q: What does beta measure
-A: the unavoidable risk of a security
-Q: what is a company or individual that prefer low-risk and low-return investments
-A: Risk-averse
-Q: What is the measure of share price volatility
-A: beta
-Q: Modern portfolio theory was introduced in 1952 by 
-A: Markowitz
-Q: What is the starting point of a capital market line
-A: risk-free return
-Q: What is the utility curve
-A: An investor’s indifference curve
-Q: What is an investment strategy that reduces portfolio risk without reducing return
-A: diversification
-Q: What is an optimal portfolio
-A: an efficient portfolio that maximizes an investor’s preferences of risk and return
-Q: What does delta measure in an option
-A: the degree to which an option is exposed to shifts in the price of a specific asset
-Q: What is the hedge ratio
-A: the ratio which compares the value of futures contracts to the value of the cash commodity being hedged
-Q: What is hedging
-A: an investment position intended to offset potential losses or gains that may be incurred by a companion investment
-
-
-
-Q: What is the utility score do as the rate of return increases
-A: increase
-Q: What is the utility score formula
-A:  Utility Score = Expected Return – 0.005σ2 × Risk Aversion Coefficient
-Q: What is the CAPM equation
-A: Expected return- Rf + Beta (Rm – Rf) 
-Q: What does the Sharpe ratio measure
-A: Indicates the average return minus the risk-free return divided by the standard deviation of return on an investment
-Q: What is liquidity
-A: the availability of liquid assets to a market or company
-Q: What is the liquidity ratio
-A: The ratio between liquid assets and the liabilities of an institution
-Q: What does the Fisher Equation tell us
-A: the relationship between nominal and real interest rates under inflation
-Q: What is the Fisher Equation
-A: real interest rate ≈ nominal interest rate − inflation rate
-Q: How do you correct nominal interest rate for inflation
-A: subtract the inflation rate from the nominal interest rate
-Q: What is market risk
-A: systematic risk that can’t be eliminated through diversification 
-
-
-
-
-
-
-
-
-
+The reduction of risk to very low levels in the case of independent risk sources. 
+What is the risk that remains even after extensive diversification?
+Market risk. 
+Market risk is also known as?
+Systematic risk or nondiversifiable risk. 
+The risk that can be eliminated by diversification is called?
+Unique risk, firm-specific risk, nonsystematic risk, or diversifiable risk. 
+The minimum-variance portfolio has a standard deviation of what?
+The minimum-variance portfolio has a standard deviation smaller than that of either of the individual component assets.
+What is the portfolio opportunity set?
+The expected return-standard deviation pairs of all portfolios that can be constructed from a given set of assets. 
+What is the reward-to-volatility (Sharpe) ratio?
+The reward-to-volatility (Sharpe) ratio is the slope of the CAL combining T-bills and the minimum-variance portfolio. 
+What is the optimal risky portfolio?
+Optimal risky portfolio is an investor’s best combination of risky assets to be mixed with safe assets to form the complete portfolio. 
+What is the minimum-variance frontier?
+The frontier is a graph of the lowest possible variance that can be attained for a given portfolio expected return. 
+What is the part of the frontier that lies above the global minimum-variance portfolio?
+The efficient frontier of risky assets.
+What is a separation property?
+A separation property is the property that portfolio choice can be separated into two independent tasks: (1) determination of the optimal risky portfolio, which is purely technical problem, and (2) the personal choice of the best mix of the risky portfolio and the risk-free asset.
+What does SCL stand for?
+Security characteristic line.
+What is the security characteristic line? 
+The security characteristic line (SCL) is a plot of the excess return on a security over the risk-free rate as a function of the excess return on the market.
+What is the book-to-market effects?
+The tendency for stocks of firms with high ratios of book-to-market value to generate abnormal returns. 
+What does the M^2 measure focus on?
+The  M^2measure focuses on total volatility as a measure of risk, but its risk-adjusted measure of performance has the easy interpretation of a differential return relative to the benchmark index. 
+M^2 is equal to:
+M^2= r_(P*)-r_M
+The risk profile of hedge funds may change rapidly.
+True.
+Hedge funds have greater leeway than what?
+Hedge funds have far greater leeway than mutual funds to change investment strategy opportunistically. 
+Hedge funds tend to invest in what type of assets?
+Illiquid assets.
+Many hedge funds pursue what type of strategies?
+Many hedge funds pursue strategies that may provide apparent profits over long periods of time, but expose the fund to infrequent but severe losses. 
+When hedge funds are evaluated as a group, what can be a major consideration?
+When hedge funds are evaluated as a group, survivorship bias can be a major consideration, because turnover in this industry is far higher than for investment companies such as mutual funds.
+What pays the risk-free return when the market is bearish?
+The portfolio.
+The attribution method explains the difference in returns between a managed portfolio, P, and a selected benchmark portfolio, B, is called?
+Bogey.
+What is the bogey portfolio’s rate of return?
+r_B=∑_(i=1)^n▒〖W_Bi r_Bi 〗
+What is Sharpe’s measure?
+Sharpe’s measure is the reward-to-volatility ratio; ratio of portfolio excess return to standard deviation.
+What is the dollar-weighted rate of return?
+The dollar-weighted rate of return is the internal rate of return on an investment.
+What is the comparison universe?
+The comparison universe is the collection of money managers of similar investment style used for assessing relative performance of a portfolio manager. 
+What is the information ratio?
+The information ratio is a ratio of alpha to the standard deviation of diversifiable risk. 
+What is a Hedge Fund
+a limited partnership of investors that uses high risk methods, such as investing with borrowed money, in hopes of realizing large capital gains
+what is a tranche
+a portion of something, especially money
+What is a stock
+An equity security that is a purchased ownership interest in a company entitling you to a portion or profits
+What is a corporate bond
+debt instrument issued by a company that acts as a loan when you invest in the bond. 
+What is a government bond
+bond issued by the US federal government; commonly used bond to help finance national debt
+What is a municipal bond
+debt securities from state and local government entities
+What is a mutual fund
+A fund made up of a variety of diversified securities
+what is a stock option
+the right to buy or sell stock at a certain price for a period of time
+what is a call option
+the right to buy a stock for a specified price 
+what is a put option
+the right to sell a stock for a specified price
+What is a futures contract
+an agreement to sell a specific commodity at a specified price at a future date
+What is a futures option
+The right to buy or sell a futures contract at a certain price for a specified period of time
+What type of security is a stock option?
+a derivative security
+What type of security is a futures contract
+a derivative security
+Who sets the laws regulating the trading of securities
+The Securities and Exchange Commission (SEC)
+What type of security is a mutual fund
+It is an equity security
+What type of security is a bond
+A debt security
+What is the Pecking Order Theory
+that firms have a preferred order of funds/capital sources that they use in order
+What is the intrinsic value of a stock
+value based on the company’s fundamentals
+What is the market value of a stock
+value based on marginal investments of the stock in the market
+What is pairs trading
+a market-neutral trading strategy that matches a long position with a short position in a pair of highly correlated securities
+What is active trading
+buying and selling securities on short-term durations to profit from rapid price movements 
+What is day trading
+A method of active trading that buys and sells securities within the same day
+What is position trading
+Uses long-term charts and other methods to determine the trends of the market to trade
+What is the bid price of a security
+the maximum price that a buyer is willing to pay for a security
+What is the ask price of a security
+The minimum that a seller is willing to receive for a security
+What is the bid-ask spread
+The difference between the bid price and the ask price of a security
+What is arbitrage
+Buying and selling securities simultaneously to make a risk-free return
+What is the efficient frontier
+the set of optimal portfolios that offers the highest expected return for a defined level of risk
+What is a portfolio
+a range of investments held by a person or organization 
+What is diversification 
+the process of a mixing a wide variety of investments within a portfolio
+What is an interest rate swap
+switches the interest rate a between fixed or floating rate
+What is the security market line
+SML shows how much inventors require in return for the systematic risk for their investment
+Who first formulated single period portfolio optimization using mean and variance
+Markowitz
+What is the input for a Markowitz portfolio
+Expected returns, standard deviations, and correlation matrix between each asset
+What is the law of one price
+if two securities have the same payoff in all states of the world, then the two securities must have the same price
+What is a market neutral strategy
+Market risk is removed by using pairs trading with uncorrelated market returns
+What is portfolio insurance
+replicating a protected put through watching delta and trading to lower the risk and insure the portfolio
+What is a callable bond
+a bond that a company can buy back at any time at a specified price
+what is a putable bond
+a bond that can be sold by the holder at any time
+What is an ETF
+an electronically traded fund that is traded like a stock within the market
+What is the purpose of the Black Scholes Model
+to price options
+what is a commodity 
+a raw material that can be bought and sold
+An unsystematic risk that can be eliminated but market risk 
+Remaining risk
+The type of risk that is avoidable through diversification
+Unsystematic risk
+Risk that can’t be avoided through diversification 
+Systematic risk
+Measure of the degree to which two securities move together
+Covariance
+Aggressive stock will have a low or high beta
+High
+What is the characteristic line
+line that represents the relationship between a security’s returns and the returns on the market portfolio
+What is the beta of a risk-free security
+Zero
+Beta is the slope of what line
+a characteristic line
+What does beta measure
+the unavoidable risk of a security
+what is a company or individual that prefer low-risk and low-return investments
+Risk-averse
+What is the measure of share price volatility
+beta
+Modern portfolio theory was introduced in 1952 by 
+Markowitz
+What is the starting point of a capital market line
+risk-free return
+What is the utility curve
+An investor’s indifference curve
+What is an investment strategy that reduces portfolio risk without reducing return
+diversification
+What is an optimal portfolio
+an efficient portfolio that maximizes an investor’s preferences of risk and return
+What does delta measure in an option
+the degree to which an option is exposed to shifts in the price of a specific asset
+What is the hedge ratio
+the ratio which compares the value of futures contracts to the value of the cash commodity being hedged
+What is hedging
+an investment position intended to offset potential losses or gains that may be incurred by a companion investment
+What is the utility score do as the rate of return increases
+increase
+What is the utility score formula
+Utility Score = Expected Return – 0.005σ2 × Risk Aversion Coefficient
+What is the CAPM equation
+Expected return- Rf + Beta (Rm – Rf) 
+What does the Sharpe ratio measure
+Indicates the average return minus the risk-free return divided by the standard deviation of return on an investment
+What is liquidity
+the availability of liquid assets to a market or company
+What is the liquidity ratio
+The ratio between liquid assets and the liabilities of an institution
+What does the Fisher Equation tell us
+the relationship between nominal and real interest rates under inflation
+What is the Fisher Equation
+real interest rate ≈ nominal interest rate − inflation rate
+How do you correct nominal interest rate for inflation
+subtract the inflation rate from the nominal interest rate
+What is market risk
+systematic risk that can’t be eliminated through diversification 
