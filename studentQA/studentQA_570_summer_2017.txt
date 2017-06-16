@@ -1,1 +1,140 @@
-
+What is corporate finance?
+To invest in assets and receive an equal amount of raised cash in return.
+What is value creation?
+Selling your investments to generate a cash return.
+What are fixed assets?
+Assets that will last a long time; can be tangible or intangible. 
+What are current assets?
+Assets that will not last a long time; usually inventory that is sold quickly.
+What is debt?
+Pieces of paper that a firm will issue as a loan agreement.
+What are equity shares?
+Stock certificates that a firm will sell for financing.
+What is a current liability?
+Short term debt.
+What is capital structure? 
+Proportion of financing from current and long-term debt and equity.
+What is net working capital?
+Current assets minus current liabilities.
+What is a sole proprietorship?
+A business owned by one person.
+What is a partnership?
+When two or more people get together to form a business.
+What is a general partnership?
+Both partners are liable for all debt and share all profit.
+What is a limited partnership?
+Limits the liability based on the cash provided by each partner.
+What is a corporation?
+A distinct legal entity. 
+What is an LLC?
+Hybrid of a partnership and a corporation.
+What is the goal of financial management?
+To maximize the current value per share of the existing stock.
+What is an agency problem?
+The possibility of conflict between the agent and the principle.
+What are agency costs?
+The costs of conflict of interest between management and stockholders.
+Who is a stakeholder?
+Someone who has a claim on the cash flows of the firm.
+What is the balance sheet?
+A snapshot of a firm’s accounting value.
+What is the accounting equation of the balance sheet?
+Assets = Liabilities + Stockholders’ Equity
+What is liquidity?
+The ease and quickness of converting assets to cash.
+What is stockholders’ equity?
+Assets – Liabilities 
+What is book value?
+The accounting value of a firm’s assets.
+What is market value?
+The price buyers and sellers would agree on.
+What is the income statement?
+Measures performance over a specific period of time.
+What is the accounting equation of income?
+Revenue – Expenses = Income
+What does EBIT stand for?
+Earnings before interest and taxes.
+What is depreciation?
+The accountant’s estimate of the depletion of equipment from production.
+How is the average tax rate calculated?
+Your tax bill divided by your taxable income.
+What is the marginal tax rate?
+Tax percent you would pay if you earned one more dollar.
+What is net working capital?
+Current assets – Current liabilities
+What is the value of the firm in finance?
+Its ability to generate financial cash flow.
+What is capital spending?
+Ending net fixed assets – Beginning net fixed assets + Depreciation
+What is cash flow paid to creditors?
+Interest paid – Net new borrowing
+What is cash flow to stockholders?
+Dividends paid – Net new equity raised
+What does free cash flow refer to?
+Cash that the firm is free to distribute to creditors and stockholders.
+What are common-size statements?
+One common way to standardize financial statements.
+What are financial ratios?
+A way to compare and investigate the relationship between financial information.
+What is the current ratio?
+Current assets divided by Current liabilities.
+What is the quick ratio?
+Current assets minus Inventory, divided by Current liabilities.
+What is the cash ratio?
+Cash divided by Current liabilities.
+What is the total debt ratio?
+Total assets minus Total equity, divided by Total assets.
+What is the debt-equity ratio?
+Total debt divided by Total equity.
+What is the equity multiplier ratio?
+Total assets divided by Total equity.
+What is the times interest earned ratio?
+EBIT divided by Interest.
+What is total asset turnover?
+Sales divided by Total assets.
+What is profit margin?
+Net income divided by Sales.
+What is EBITDA?
+A measure of before-tax operating cash flow.
+What is return on assets (ROA)?
+Net income divided by Total assets.
+What is return on equity (ROE)?
+Net income divided by Total equity.
+What is earnings per share (EPS)?
+Net income divided by Shares outstanding.
+What is the price-earnings (PE) ratio?
+Price per share divided by Earnings per share.
+What is the Market-to-book ratio?
+Market value per share divided by Book value per share.
+What is the dividend payout ratio?
+Cash dividends divided by Net income.
+What is the plowback ratio?
+Addition to retained earnings divided by Net income.
+What is the internal growth rate?
+The rate the firm can maintain with internal financing only.
+What is the sustainable growth rate?
+The maximum rate of growth a firm can maintain without increasing financial leverage.
+What is future value?
+The value of a sum after investing over one or more periods.
+What is present value?
+The money you have today.
+What is net present value of investment?
+Cost of land today + present value of next year’s sales price.
+What is compounding?
+Continuing to lend money in the financial market.
+What is compound interest?
+When each interest payment is reinvested.
+What is discounting?
+Calculating the present value of a future cash flow.
+What is the present value factor?
+The factor used to calculate the present value of a future cash flow.
+What is the stated annual interest rate?
+The annual interest rate without consideration of compounding.
+What is continuous compounding?
+To compound every infinitesimal instant.
+What is perpetuity?
+A constant stream of cash flows without end.
+What is an annuity?
+A level stream of regular payments that lasts for a fixed number of periods.
+What is growing annuity?
+A finite number of growing cash flows.
