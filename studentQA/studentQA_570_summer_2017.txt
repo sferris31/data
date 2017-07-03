@@ -138,3 +138,144 @@ What is an annuity?
 A level stream of regular payments that lasts for a fixed number of periods.
 What is growing annuity?
 A finite number of growing cash flows.
+What is a fixed asset?  
+Assets that will last a long time, such as buildings.
+What is an example of a tangible asset? 
+Machinery and equipment
+What is an example of an intangible asset? 
+Patents and trademarks
+What is a current asset? 
+Assets with short lives, such as inventory.
+What is a sole proprietorship? 
+A business owned by one person
+What is a partnership? 
+Two or more people who own a business.
+What is a general partnership?
+All partners agree to provide some fraction of the work and cash and to share the profits and losses.
+What is a limited partnership?
+This partnership permits the liability of some of the partners to be limited to the amount of cash each has contributed to the partnership.
+What is a balance sheet? 
+A snapshot of a firm’s accounting value the accountant uses for a particular date, as though the firm stood momentarily still.
+What is liquidity? 
+This refers to the ease and quickness with which assets can be converted to cash.
+What is accounts receivable? 
+These are amounts not yet collected from customers for goods or services sold to them.
+What is Inventory? 
+Inventory is comprised of raw materials to be used in products, work in process, and finished goods.
+What are liabilities?
+Obligations of the firm that require a payout of cash within a stipulated period.
+What is a short run period?
+It is the period in which certain equipment, resources, and commitments of the firm are fixed.  
+What is your average tax rate?  
+Your tax bill divided by your taxable income.
+What is net working capital? 
+Current assets minus current liabilities
+How do you calculate capital spending?
+Ending net fixed assets – beginning net fixed assets
+What is operating cash flow?
+Earnings before interest plus depreciation minus taxes, which measures the cash generated from operations not counting capital spending or working capital requirements.
+How do you compute the current ratio? 
+Current assets/current liabilities
+How do you compute the quick ratio?
+Current assets-inventory / current liabilities
+How do you compute the cash ratio? 
+Cash/current liabilities
+How do you compute the total debt ratio? 
+Total assets – total equity / total assets.
+How do you compute times interest earned ratio? 
+EBIT / Interest
+How do you compute the inventory turnover? 
+Cost of Goods Sold / Inventory
+How do you compute the receivables turnover? 
+Sales / Accounts Receivable 
+How do you compute the total asset turnover? 
+Sales/Total assets
+How do you compute the profit margin? 
+Net income/Sales
+How do you compute return on assets? 
+Net income/ total assets
+How do you compute return on equity? 
+Net income / total equity
+How do you compute market capitalization? 
+Price per share x shares outstanding
+What is the use of using the percentage of sales approach? 
+The goal is to develop a quick and practical way of generating pro forma statements.
+What is another statement for future value (FV)? 
+Compound value
+What is a finite number of growing cash flows? 
+Growing Annuity
+What is capital budgeting? 
+The decision making process for accepting or rejecting projects.
+When do we accept a project while look at the NPV? 
+If the NPV is greater than zero
+When do we reject a project while looking at the NPV? 
+If the NPV is less than zero
+What is the first problem with the payback period? 
+Timing of cash flows within the payback period
+What is the second problem with the payback period? 
+Payments after the payback period?
+What is the third problem with the payback period? 
+Arbitrary standard for payback period.
+What is another method that decision makers use instead of the payback method?
+Discounted payback method
+What does IRR stand for? 
+Internal Rate of Return
+When do we accept a project while looking at IRR? 
+If the IRR is greater than the discount rate
+When do we reject a project while looking at IRR? 
+If the IRR is less than the discount rate
+What’s an independent project? 
+One whose acceptance or rejection is independents of the acceptance or rejection of other projects
+What is the modified IRR method?  
+It handles the multiple IRR problem by combining cash flows only one change in sign remains
+When is two or more project mutually exclusive? 
+They are mutually exclusive if the firm can accept only one of them.
+When calculating NPV what cash flows should only be used? 
+Cash flows that are incremental to the project
+What is a sunk cost? 
+A cost that has already occurred
+What is an opportunity cost? 
+A cost that a firm takes which forgoes other opportunities for using the assets.
+What is erosion? 
+Erosion occurs when a new product reduces the sales, and, hence the cash flows of existing products.
+What is synergy? Synergy occurs when a new product increases the cash flows of existing products.
+What is net working capital? 
+Net working capital is the difference between current assets and current liabilities.
+What is the name of the two books that U.S. firms keep? 
+Tax books & stockholders’ books
+Who is the tax book for? 
+The IRS uses this one
+What is the stockholders’ book for? 
+For the firms annual reports
+What is the nominal cash flow? 
+Actual dollars to be received or paid out.
+What is the real cash flow? 
+Cash flow’s purchasing power.
+What rate must nominal cash flows be discounted at? 
+Nominal rate
+What rate must real cash flows be discounted at? 
+Real rate
+What is the Top-Down approach? 
+Starting at the top of the income statement and work our way down to cash flow by subtracting costs, taxes, and other expenses.
+What is the Bottom-Up approach? 
+Starting at the bottom line (net income) and add back any non-cash deductions such as depreciation.
+What is the capital gain or loss? 
+Change in price of the stock divided by the initial price.
+How do you calculate the average or mean of a frequency distribution? 
+Add up all of the values and divide by the total number.
+What is the most common measure of variability or dispersion? 
+The variance and its square root, the standard deviation.
+What is a eurobond?
+A bond issued in multiple countries but denominated in a single currency, usuaslly the issuers home country
+What is a foreign bond?
+A bond issued in a single country and are usually demoninated in that countries currency.
+What does a put bond allow the holder to do?
+It allows the holder to force the issuer to buy the bond back at stated price
+What does a CAT bond stand for?
+Catastrophe bond
+What is an indenture?
+An agreement between borrowers and its creditors
+What is preferred stock?
+Preferred stock has a preference over common stock in the payment of dividends and in the distribution of corporation assets in the event of liquidation.
+What is the expected return?
+Return that an individual expects a stock to earn over the next period.
