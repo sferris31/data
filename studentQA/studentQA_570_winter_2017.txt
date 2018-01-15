@@ -8,4 +8,148 @@ What law created the Securities Exchange Commission?
 The Securities Exchange Act of 1934.
 What is an efficient capital market?
 A market where stock prices fully reflect available information.
+What is a weak form efficient market?
+A market that fully incorporates the information in past stocks.
+What is a semistrong form efficient market?
+A market where prices reflect all publicly available information which includes financial statements from the firm along with historical price information.
+What is a strong form efficient market?
+A market where prices reflect all information both public and private.
+What is bubble theory?
+The theory that security prices occasionally move to extremes above their actual value.
+What is a bearer bond?
+A bearer bond is a bond without without a recorded ownerwhich forces the holder of the bond to detatch the coupons and send them to the company to receive payment.
+What is a call protected bond?
+A call protected bond is a bond with a call provision but cannot be called for a certain period of time, during this time the bond is call protected.
+What is net working capital?
+Net working capital is current assets minus current liabilities
+What is the difference between short-term and long-term debt?
+Short term debt must be repaid within one year whereas long-term debt does not have to be repaid within one year.
+What is capital budgeting?
+Capital budgeting is the process of making and managing expenditures on long-lived assest.
+What is the responsibility of a treasurer in corporate finance?
+A treasurer is responsible for handling a corporation's cash flows, managaing capital expenditure decisions, and making financial plans.
+What is the responsibility of a controller in corporate finance?
+A controller is responsible for handling a corporation's accounting function, including taxes, cost and financial accounting, and information systems.
+What is GAAP?
+GAAP stands for generally accepted accounting principles which are rules and standards commomly followed in accounting procedures.
+What are agency costs?
+Agency costs are the costs of the conflict of interest between stockholders and management.
+What does it mean when a company goes dark?
+Going dark refers to a company delisting their shares from exchanges.
+What is the purpose of an income statement?
+An income statement is intended to measure the financial performance of a firm over a specified period of time.
+What is the marginal tax rate?
+The marginal tax rate is the tax percentage you would pay if you earned one more dollar.
+What is a flat-rate tax?
+A flat-rate tax means there is one tax rate for all income levels, which also means the marginal tax rate is the same for all incomes.
+What is operating cash flow?
+Operating cash flow is earnings before interest plus depreciation minus taxes. Operating cash flow measures the cash generated from operations not counting capitalspending or work capital requirements.
+What are commom-size statements?
+Common-Size statements are financial documents that adjust for the difference in size, currency, or time to simplify the comparison of companies.
+What is market capitalization?
+Market capitalization is the firms outstanding shares times it's market price per share.
+What is net present value?
+Net present value is the current value of future cash flows minus the current value of the cost of the investment.
+What is a perpetuity?
+A perpetuity is a constant stream of cash flows that never ends.
+What is a growing perpetuity?
+A growing perpetuity is a constant stream of cash flows that never ends and continues to increase indefinitely.
+What is an annuity due?
+An annuity due level stream of payments that lasts for a fixed number of periods and begins immediately at the beginning of the periods.
+What is a growing annuity?
+A growing annuity is a finite number of gorwing cash flows over a fixed number of periods.
+What are call provisions?
+A call provision allows the company to repurchase part or all of a bond issue at stated prices over a specific period.
+What is capital budgeting?
+Capital budgeting is the decision-making process for accepting and rejecting projects.
+What is the basic IRR rule?
+The basic IRR rule states that if IRR is greater than the discount rate a project should be accepted and if it is less then the project should be rejected.
+What is an independent project?
+An independent project is a project where acceptance or rejection is independent of the acceptance or rejection of other projects.
+What is a mutually exclusive investment?
+Any pair or collection of investments where only one can be selected and by selecting one the others cannot be accepted.
+What are opportunity costs?
+This is when a firm forgoes other opportunities by taking on another opportunity and loses any potential revenue that could have been received from alternate projects.
+What is financial erosion?
+Erosion is a side effect that occurs when a new product reduces the sales and thus the cash flows of existing products.
+What is financial synergy?
+Synergy is a side effect that occurs when a new project increases the cash flows of existing projects.
+What is class B stock?
+Class B stock is stock that is not publicly traded and is assigned may be assigned a stronger or weaker percentage of voting power.
+What is a deed of trust?
+This is a written agreement between the boorower and its creditors, also known as an indenture.
+What is sensitivity analysis?
+A method for examining how responsive a particular calculation is to changed in underlying assumptions, this is also known as what-if analysis or bop.
+What is scenario analysis?
+A method that examines a number of different likely scenarios, where each scenario involves a confluence of factors.
+What is break-even analysis?
+A formula that determines the sales needed to break even.
+What is a bond coupon?
+A bond coupon is a constant, regularly paid interest payment from a bond.
+What is interest rate risk?
+The risk that arises for bond owners from fluctuating interest rates.
+What is a bond's current yield?
+A bond's current yield is a bond's annual coupon divided by its price.
+What is a junk bond?
+A junk bond is the lowest rating a bond can be assigned by a rating agency based upon a variety of factors.
+What is the largest securities market in the world?
+The U.S. Treasury market.
+What does Moody's and Standard & Poor's do?
+They assign bonds ratings for investment purposes.
+What is the Trade Report and Compliance Engine?
+A channel where corporate bond dealers are required to report trade information.
+What is the clean price?
+A bond price that is net of accrued interest, this means that accrued interest is subtracted to arrive at a quoted price.
+What is the dirty price?
+The price actually paid for a bond that includes accrued interest that is normally deducted from a quoted price.
+What is an inflation premium?
+This is a higher nominal rate that is charged due to the the anticipation that future inflation erodes the value of dollars that will be returned on a loan.
+What is an over-the-counter market?
+A securities market that is comprised primarily by dealers who buy and sell securities for their own purposes.
+What is an ECN?
+An electronic communication network which is a web site that allows investors to trade directly with one another.
+What are flotation costs?
+Costs incurred by the firm when projects are funded by stocks and bonds.
+What is a negative covenant?
+A negative covenant restricts or prevents actions that a company may place on a bond.
+What is a positive covenant?
+A positive covenant outlines or forces a company to take a designated action in regard to the bond issued.
+What is a reverse stock split?
+A reverse stock split is when a company consolidates stock shares, such as four shares of stock becoming one.
+What is a round lot?
+A round lot refers to the common security trading unit of 100 shares.
+What is an odd lot?
+An odd lot refers to securities being purchased in units of less than 100 shares.
+What is a registration statement?
+A registration statement is a document filed with the SEC that includes financial information and history, along with details of the existing business, proposed financing, and plans for the future. The statement is required for public issues of securities with limited exceptions.
+What is an unseasoned new issue?
+This is an IPO, or initial public offering, which is the first public equity issue made by a company.
+What is a seasoned new issue?
+This is a new issue where an IPO has already taken place.
+What is a dutch auction?
+A dutch auction is when an underwriter does not set a fixed prices for shares of a security to be shared, rather investors bid at auctionfor the shares.
+What is a green shoe provision?
+A green shoe provision allows members of a securities underwriting group to purchase additional shares at an offering price.
+What is a rights offering?
+An issue of common stock offered only to current stockholders.
+What is a subscription price?
+The price current shareholders are permitted to pay for a share of stock during a rights offering.
+What is a shelf registration?
+A permission given to a corporation to register an offering that it reasonably expects to sell within the next two years inteded to simplify the procedure for issuing securities.
+What are the stages of venture capital financing?
+seed money is the first stage followed by start-up, first-round financing, secound-round financing, third-round financing, and fourth-round financing.
+What is a leveraged lease?
+A three-sided arrangement among the lessee, leesor, and lendors.
+What is conversion value?
+This is what bonds would be worth if they were immediately converted into common stock at current prices.
+What is a forced conversion?
+This is when the conversionvalue is greater than the call price.
+What is hedging?
+Hedging is when a firm reducesits risk exposure with the use of drivatives.
+What are swaps?
+Swaps are arrangements between two counterparties to exchange cash flows over time.
+What are shortage costs?
+These are costs that decline with increases in the level of investment in current assets.
+What are carrying costs?
+These are costs that increase with the level of investments in current assets.
 
