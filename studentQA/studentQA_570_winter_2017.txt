@@ -6,4 +6,6 @@ What is an agency problem?
 A conflict of interest between the agent and the principle.
 What law created the Securities Exchange Commission?
 The Securities Exchange Act of 1934.
+What is an efficient capital market?
+A market where stock prices fully reflect available information.
 
