@@ -1,4 +1,85 @@
- 1. A business that is owned by one person is called
+What causes a steeper SML slope?
+Higher levels of investor risk aversion
+What reduces WACC?
+If the market risk premium declines
+What is the NPV method?
+Is assumes that cash flows will be reinvested 
+at the WACC
+What is the IRR method?
+It assumes reinvestment at the IRR
+Operating expenses are?
+Ongoing costs a company pays to run its basic business
+What is the goal of finance management?
+To make more money or add value to the owners of the firm
+As rates increase, bond prices will ________. As debt increases, risk will _________.
+Decrease, Increase
+Premuim bond is?
+Selling for higher than the face value of the bond
+What is annuity?
+Series of regular payments
+Accounting insolveny is?
+When companies liabilities exceeds its assets
+Total gain or loss consists of?
+Capital gain or loss plus any income you received
+What is range?
+The simplest measure of risk
+What is (RM-RF)?
+Market Risk premium
+What is B(RM-RF)?
+Risk Premium
+Higher the risk equals?
+Higher the reurn of investment
+Debenture is what?
+A bond without collateral
+Face Value, Par Value, and Maturity Value all equal what?
+$1000
+Bearer bonds are?
+Owner of the bonds
+What is Par bond?
+When you sell at par value
+Discount bond is?
+When the bond selles lesser than the par value
+What does B stand for in Finance?
+Beta of a stock
+When a company borrows money from a bank or sells bonds, it is called?
+Debt Finanacing
+To get the operating cash flow, given the net income, we add back what?
+Depreciation 
+Maturity bonds are what kind of debt?
+Long term
+A note is what?
+A loan less than 10 years
+A bid price is?
+What a customer is willing to pay
+IRR is measured as a?
+Percent
+Can a firm spend its operating cash flow?
+Yes
+What is cost of debt?
+The return the bank or bondholder demands on new borrowing
+Finance is?
+The art and science of managing wealth
+Three main functions of a financial manager are?
+Capital Budgeting, Capital Structure, and Working Capital Management
+Probability Distribution must always add to?
+One
+What is the Volcker Rule?
+Insured institutions may not engage in proprietary trading
+Longing a stock is?
+Buying a stock thinking it will appreciate
+Shorting a tock is?
+Buying an instrument to profit in a down market
+Increase in interest rate has what affect on supply?
+Increase in supply
+Pecking Order is?
+How mature companies finance their growth
+Cedit unions are?
+Nonprofit organizations 
+Lagging economic indicatord happens?
+After the economy changes
+Lower GDP is?
+Recession
+1. A business that is owned by one person is called
    1. A sole proprietorship
 
 1. What is similar to a proprietorship except that there are two or more owners 
