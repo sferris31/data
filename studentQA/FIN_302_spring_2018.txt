@@ -174,3 +174,153 @@ Recession
 
 1. If you want to find out how much money you need to invest in order to have a certain amount in the future what formula do you have to use?
    1. FV=PV*(1+i)^t
+   
+   Essentials of Corporate Finance
+
+ 
+
+What is the financial topics are grouped into four main areas?
+
+1. Corporate finance 2. Investments 3. Financial institutions 4. International finance
+
+ 
+
+What is the process of planning and managing a firm’s long-term investments?
+
+Capital budgeting
+
+ 
+
+What is the mixture of debt and equity maintained by a firm?
+
+Capital structure
+
+ 
+
+What is a firm’s short-term assets and liabilities?
+
+Working capital
+
+ 
+
+What is a business owned by a single individual?
+
+Sole proprietorship
+
+ 
+
+What is a business formed by two or more individuals or entities?
+
+Partnership
+
+ 
+
+What is a business created as a distinct legal entity owned by one or more individuals or entities?
+
+Corporation
+
+ 
+
+The goal of financial management
+
+Profit Maximization
+
+ 
+
+General Financial Management Goal
+
+Maximize the market value of the existing owners' equity
+
+ 
+
+What is the possibility of conflict of interest between the owners and management of a firm?
+
+Agency problem
+
+ 
+
+What is the someone other than a stockholder or creditor who potentially has a claim on the cash flows of the firm?
+
+Stakeholder
+
+ 
+
+What is the financial statement showing a firm’s accounting value on a particular date?
+
+Balance sheet
+
+ 
+
+What is the current assets less current liabilities?
+
+Networking capital
+
+ 
+
+What is the common set of standards and procedures by which audited financial statements are prepared?
+
+Generally Accepted Accounting Principles (GAAP)
+
+ 
+
+What is the financial statement summarizing a firm’s performance over a period of time?
+
+Income statement
+
+ 
+
+What is the expenses charged against revenues that do not directly affect cash flow, such as depreciation?
+
+Noncash items
+
+ 
+
+What is the total taxes paid divided by total taxable income?
+
+Average tax rate
+
+ 
+
+What is the amount of tax payable on the next dollar earned?
+
+Marginal tax rate
+
+ 
+
+What is the total of cash flow to creditors and cash flow to stockholders, consisting of the following: operating cash flow, capital spending, and change in networking capital?
+
+Cash flow from assets
+
+ 
+
+What is the cash generated from a firm’s normal business activities?
+
+Operating cash flow
+
+ 
+
+What is another name for cash flow from assets?
+
+Free cash flow
+
+ 
+
+What is a firm’s interest payments to creditors less net new borrowings?
+
+Cash flow to creditors
+
+ 
+
+What is the dividends paid out by a firm less net new equity raised?
+
+Cash flow to stockholders
+
+ 
+
+What is a standardized financial statement presenting all items in percentage terms, Balance sheet items are shown as a percentage of assets and income statement items as a percentage of sales?
+
+ 
+
+common-size statement
+
+ 
