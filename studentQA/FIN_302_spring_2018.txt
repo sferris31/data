@@ -79,3 +79,98 @@ Lagging economic indicatord happens?
 After the economy changes
 Lower GDP is?
 Recession
+1. A business that is owned by one person is called
+   1. A sole proprietorship
+
+1. What is similar to a proprietorship except that there are two or more owners 
+   1. A partnership
+
+1. What's the definition of liquidity
+   1. the speed and ease with which an asset can be converted to cash
+
+1. The difference between a firm's current assets and its current liabilities is called
+   1.  net working capital
+
+1. The use of debt in a firm's capital structure is called
+   1.  financial leverage
+
+1. The true value of any asset is 
+   1.  Its market value
+
+1. What is the market value
+   1.  the amount of cash we would get if we actually sold it
+
+1. The firm's assets on the balance sheet are called
+   1.  book values
+
+1. The income statement equation is
+   1.  revenues minus expenses equals income
+
+1. The equation for earnings per share is
+   1.  net income divided by total shares outstanding
+
+1. The equations for dividends per share is
+   1.  total dividends divided by total shares outstanding
+
+1. Expenses charged against revenues that do not directly affect cash flow are called
+   1.  non-cash items
+
+1.  An example of a non-cash item would be
+   1.  Depreciation
+
+1. What is marginal tax rate
+   1.  the extra tax you would pay if you earned one more dollar
+
+1. When you divide your tax bill by your taxable income that's called
+   1.  your average tax rate
+
+1. What are the three components that are involved in cash flow from assets
+   1.  operating cash flow, capital spending, change in net working capital
+
+1. The simple definition of operating cash flow is
+   1.  Cash generated from a firm's normal business activities
+
+1. When calculating ocf what are two things you don't want to include
+   1.  interest and depreciation 
+
+1. Can net capital spending be negative? 
+   1. Yes, this would be possible if the firm sold off more assets than it purchased. 
+
+1.  What is another name for cash flow from assets
+   1.  free cash flow
+
+1. When you want to compare financial statement what are those types of statements called
+   1.  common-size statements
+
+1. What is the definition of common-size statements
+   1.  a standardized financial statement presenting all  items in percentages terms. 
+
+1. What are financial ratios?
+   1.  relationships determined from a firm's financial information and used for comparison purposes
+
+1. What is another name for quick ratio
+   1.  acid test 
+
+1. What is the equation for quick ratio
+   1.   current assets minus inventory divided by current liabilities
+
+1. What is the cash ratio?
+   1. Cash divided by current liabilities
+
+1. What is the total debt ratio?
+   1.  total assets minus total equity divided by total assets
+
+1.  how do you find receivables turnover?
+   1.   sales divided by account receivable
+
+1. To make the receivables turnover answer more understandable what do you have to do?
+   1. Take the receivables turnover and divide it by 365 to see how many days
+
+1. How do we calculate ROE?
+   1. Profit margin times total asset turnover times Equity multiplier
+
+1. What is the difference between ROA and ROE?
+   1.  the reflection of the use of financial leverage
+
+1. If you want to find out how much money you need to invest in order to have a certain amount in the future what formula do you have to use?
+   1. FV=PV*(1+i)^t
